@@ -1,1 +1,62 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",Trace Souther Africa
+https://channels.trace.plus/Traceprod/URBAN_SA.m3u8
+#EXTINF:-1 tvg-id="",Trace Naija
+https://channels.trace.plus/Traceprod/NAIJA.m3u8
+#EXTINF:-1 tvg-id="",Trace Mziki
+https://channels.trace.plus/Traceprod/MZIKI.m3u8
+#EXTINF:-1 tvg-id="",Trace Africa
+https://channels.trace.plus/Traceprod/AFRICA_EN.m3u8
+#EXTINF:-1 tvg-id="",Trace Urban Africa
+https://channels.trace.plus/Traceprod/URBAN_SA.m3u8
+#EXTINF:-1 tvg-id="",Trace Jama
+https://channels.trace.plus/Traceprod/JAMA.m3u8
+#EXTINF:-1 tvg-id="",Trace UK
+https://channels.trace.plus/Traceprod/UK_FAST.m3u8
+#EXTINF:-1 tvg-id="",Trace International
+https://channels.trace.plus/Traceprod/URBAN_INTER.m3u8
+#EXTINF:-1 tvg-id="",Trace Muzika
+https://channels.trace.plus/Traceprod/MUZIKA.m3u8
+#EXTINF:-1 tvg-id="",Trace Caribbean
+https://channels.trace.plus/Traceprod/CARIBBEAN.m3u8
+#EXTINF:-1 tvg-id="",Trace Brazil
+https://channels.trace.plus/Traceprod/BRAZIL.m3u8
+#EXTINF:-1 tvg-id="",Trace Latina
+https://channels.trace.plus/Traceprod/LATINA.m3u8
+#EXTINF:-1 tvg-id="",Trace Urban Carebian
+https://channels.trace.plus/Traceprod/URBAN_DOM.m3u8
+#EXTINF:-1 tvg-id="",Trace Urban France
+https://channels.trace.plus/Traceprod/URBAN_FR.m3u8
+#EXTINF:-1 tvg-id="",Trace Toca
+https://channels.trace.plus/Traceprod/TOCA.m3u8
+#EXTINF:-1 tvg-id="",Trace Teranga
+https://channels.trace.plus/Traceprod/TERANGA.m3u8
+#EXTINF:-1 tvg-id="",Trace Vanilla
+https://channels.trace.plus/Traceprod/VANILLA.m3u8
+#EXTINF:-1 tvg-id="",Trace Afra Franco
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR.m3u8
+#EXTINF:-1 tvg-id="",Trace MBOA
+https://channels.trace.plus/Traceprod/MBOA.m3u8
+#EXTINF:-1 tvg-id="",Trace IVOIRE
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE.m3u8
+#EXTINF:-1 tvg-id="",Trace Kitoko
+https://channels.trace.plus/Traceprod/KITOKO.m3u8
+#EXTINF:-1 tvg-id="",Trace Ayiti
+https://channels.trace.plus/Traceprod/AYITI.m3u8
+#EXTINF:-1 tvg-id="",Carac1
+https://edge11.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-id="",SuperYacht TV
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="",Global Fashion
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="",World Fashion
+https://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
+#EXTINF:-1 tvg-id="",World Fashion Russia
+https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1 tvg-id="",Code Fashion
+https://cdn2.invivo.bg/Codefashion_5500/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="",Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+
+
 
