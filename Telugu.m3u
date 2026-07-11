@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",DS9 MUSIC
+https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
+#EXTINF:-1 tvg-id="",SSLC MUSIC
+https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+#EXTINF:-1 tvg-id="",MASTI MUSIC
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 tvg-id="",SSLC JANAPADALU
+https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
+#EXTINF:-1 tvg-id="",BCT MUSIC
+https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 #EXTINF:-1 tvg-id="",AN TV
 https://mars.streambridge.link:8052/telugu/antv/index.m3u8
 #EXTINF:-1 tvg-id="",Anjali TV
@@ -63,7 +73,20 @@ https://mumbai-edge.smartplaytv.in/TG5/index.m3u8
 https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
 #EXTINF:-1 tvg-id="",BCT KEERTHANA TV
 https://mumbai-edge.smartplaytv.in/BCTKeerthana/index.m3u8
-
+#EXTINF:-1 tvg-id="",KRS TV
+https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8
+#EXTINF:-1 tvg-id="",SSLC BANJARA
+https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
+#EXTINF:-1 tvg-id="",BCN CHANNEL
+https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
+#EXTINF:-1 tvg-id="",GS GRAMEENA
+https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
+#EXTINF:-1 tvg-id="",WIN TV
+https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
+#EXTINF:-1 tvg-id="",S90 NEWS
+https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
+#EXTINF:-1 tvg-id="",A1 TV TELUGU NEWS
+https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
 
 
 
