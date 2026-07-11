@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="",AN TV
+https://mars.streambridge.link:8052/telugu/antv/index.m3u8
+#EXTINF:-1 tvg-id="",Anjali TV
+https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
