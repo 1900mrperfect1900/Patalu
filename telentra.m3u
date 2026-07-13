@@ -129,7 +129,26 @@ https://vvsolution.in/hls/dtvkannada_627.m3u8
 https://vvsolutions.in/aksharanews/aksharanews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",CTV News
 https://vvsolutions.in/ctvnews/ctvnews.m3u8
-
+#EXTINF:-1 tvg-id="22094" tvg-logo="https://cms.bheem.tv/v1/imageresize/w_1280/h_720/fill/%2Fmount%2Fimages%2Fteplay%2F639323d7e97311c2278a6a40%2Fen%2FLandscape%2FHYiJrwEaaDdMce71680856930.png" group-title="Telugu Local",Bheem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
+https://login.bheem.tv/bpk-tv/22094/output/index.mpd?
+#EXTINF:-1 tvg-id="22301" tvg-logo="" group-title="Telugu Local",BCN Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5190427b2c595770a32994d3412ec6e8:caebbaa588560b8713aaf74b6bd43283
+https://login.bheem.tv/bpk-tv/22301/output/index.mpd
+#EXTINF:-1 tvg-id="22302" tvg-logo="" group-title="Telugu Local",BCN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7cf53782c245274ab8535e542ef112c:a00af3fe7ada67409a0522b04eabc276
+https://login.bheem.tv/bpk-tv/22302/output/index.mpd
+#EXTINF:-1 tvg-id="22327" tvg-logo="" group-title="Telugu Local",BCN News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c51805e0247f57d98b93e88ca3b71ee9:d417b5e60aad01e17fd946f5b4a60584
+https://login.bheem.tv/bpk-tv/22327/output/index.mpd
+#EXTINF:-1 tvg-id="22362" tvg-logo="" group-title="Telugu Local",Telemax Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
+https://login.bheem.tv/bpk-tv/22362/output/index.mpd
 
 
 
