@@ -1,91 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",DS9 MUSIC
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",DS9 MUSIC
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
-#EXTINF:-1 tvg-id="",SSLC MUSIC
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC MUSIC
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
-#EXTINF:-1 tvg-id="",MASTI MUSIC
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",MASTI MUSIC
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
-#EXTINF:-1 tvg-id="",SSLC JANAPADALU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",JANAPADALU
 https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
-#EXTINF:-1 tvg-id="",BCT MUSIC
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",BCT MUSCI
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
-#EXTINF:-1 tvg-id="",AN TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",ANTV
 https://mars.streambridge.link:8052/telugu/antv/index.m3u8
-#EXTINF:-1 tvg-id="",Anjali TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",ANJALI TV
 https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
-#EXTINF:-1 tvg-id="",Metro Tv
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",METRO TV
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="",TGN Telugu
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TGN TV
 https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
-#EXTINF:-1 tvg-id="",SSLC MULTIPLEX
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC MULTIPLEX
 https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8
-#EXTINF:-1 tvg-id="",Bathukamma TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",BATHUKAMMA TV
 https://mumbai-edge.smartplaytv.in/BathukammaTV/index.m3u8
-#EXTINF:-1 tvg-id="",RKTV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",RKTV
 https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8
-#EXTINF:-1 tvg-id="",KTV NEWS
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",KTN NEWS
 https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8
-#EXTINF:-1 tvg-id="",SSLC GOLD
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC GOLD
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
-#EXTINF:-1 tvg-id="",SSLC CINEMALU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC CINIMALU
 https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
-#EXTINF:-1 tvg-id="",VINODHAM HD TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",VINODAM TV HD 
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
-#EXTINF:-1 tvg-id="",BCTC CLASIC
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",BCT CLASSIC
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
-#EXTINF:-1 tvg-id="",VCN TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",VCN TV
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
-#EXTINF:-1 tvg-id="",KATHALU TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC KATHALU
 https://mumbai-edge.smartplaytv.in/SSLCKathalu/index.m3u8
-#EXTINF:-1 tvg-id="",VEDUKA HD
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",VEDUKA HD
 https://mumbai-edge.smartplaytv.in/VedukaHD/index.m3u8
-#EXTINF:-1 tvg-id="",DS9 TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",DS9 TV
 https://mumbai-edge.smartplaytv.in/DS9/index.m3u8
-#EXTINF:-1 tvg-id="",GEE TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",GEE TV
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
-#EXTINF:-1 tvg-id="",BCT NEWS
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",BCT NEWS
 https://mumbai-edge.smartplaytv.in/BCTNews/index.m3u8
-#EXTINF:-1 tvg-id="",Shreyas TV Telugu
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SHREYAS TV
 https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
-#EXTINF:-1 tvg-id="",SD Smart TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SD TV
 https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
-#EXTINF:-1 tvg-id="",CITY NEWS TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",CITY NEWS TELUGU
 https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
-#EXTINF:-1 tvg-id="",PRAJA VANI
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",PRAJAVANI
 https://mumbai-edge.smartplaytv.in/Prajavani/index.m3u8
-#EXTINF:-1 tvg-id="",S9 NEWS TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",S9 NEWS
 https://mumbai-edge.smartplaytv.in/S9News/index.m3u8
-#EXTINF:-1 tvg-id="",TirumalaHD
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TIRUMALA HD
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 tvg-id="",New 9 Telugu
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",NEWS9 TV
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
-#EXTINF:-1 tvg-id="",Anjali HD TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",ANJALI TV
 https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
-#EXTINF:-1 tvg-id="",AB NEWS TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",AB NEWS
 https://mumbai-edge.smartplaytv.in/ABNews/index.m3u8
-#EXTINF:-1 tvg-id="",AV NEWS TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",AVN TV
 https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
-#EXTINF:-1 tvg-id="",Reshya TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",RESHYA TV
 https://mumbai-edge.smartplaytv.in/ReshyaTV/index.m3u8
-#EXTINF:-1 tvg-id="",TG5 TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG5 TV
 https://mumbai-edge.smartplaytv.in/TG5/index.m3u8
-#EXTINF:-1 tvg-id="",INB TODAY TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",INB TELUGU
 https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
-#EXTINF:-1 tvg-id="",BCT KEERTHANA TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",BCT KEERTHANA
 https://mumbai-edge.smartplaytv.in/BCTKeerthana/index.m3u8
-#EXTINF:-1 tvg-id="",KRS TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",DS9 TELUGU
 https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8
-#EXTINF:-1 tvg-id="",SSLC BANJARA
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC BANJARADOLU
 https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
-#EXTINF:-1 tvg-id="",BCN CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",BCN TV
 https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
-#EXTINF:-1 tvg-id="",GS GRAMEENA
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",GS GRAMEENA TV
 https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
-#EXTINF:-1 tvg-id="",WIN TV
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",WIN TV TELUGU
 https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
-#EXTINF:-1 tvg-id="",S90 NEWS
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",S90 NEWS TELUGU
 https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
-#EXTINF:-1 tvg-id="",A1 TV TELUGU NEWS
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
 https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
 
 
