@@ -5,6 +5,8 @@ https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",MASTI MUSIC
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",Zilla Vani
+https://streaming.livebox.co.in/vedhikahls/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",JANAPADALU
 https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",BCT MUSCI
