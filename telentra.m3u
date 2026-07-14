@@ -187,14 +187,6 @@ http://103.146.170.102:1935/satya/satya/chunklist_w1792896619.m3u8
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png" group-title="GPTR Local Channel",MA Telanagana Tv
 http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2006476299782552227397379.png" group-title="GPTR Local Channel",Sannidi Tv
-http://sanniditv.phoenixcreations.online:1935/sanniditv/sanniditv/chunklist_w1052960370.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2028461646911551924218864.png" group-title="GPTR Local Channel",BBR Tv
-http://bbrtv.phoenixcreations.online:1935/bbrtv/bbrtv/chunklist_w1927464872.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2036237531234534053650641.png" group-title="GPTR Local Channel",SR News Tv
-http://sr7tv.phoenixcreations.online:1935/sr7tv/sr7tv/chunklist_w908646649.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2041247782338087961187209.png" group-title="GPTR Local Channel",The Way Tv
-http://198.144.149.206:8080/NOTV/THEWAYTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2127483247316413473522500.png" group-title="GPTR Local Channel",New Tv
 http://newtvtelugu.phoenixcreations.online:1935/newtvtelugu/newtvtelugu/chunklist_w615754673.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Vismaya
