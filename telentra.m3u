@@ -149,7 +149,7 @@ https://amigofx.com:1936/stv/stv/playlist.m3u8
 https://amigofx.com:1936/ccchd/ccchd/playlist.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1753232738761369176382132.png" group-title="GPTR Local Channel",Mana Tv
 http://decode.streamplay.in:1935/telugutv/telugutv/chunklist_w2044669398.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="GPTR Local Channel",Siti Channel
