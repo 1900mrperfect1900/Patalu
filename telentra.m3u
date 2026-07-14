@@ -196,10 +196,7 @@ http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 http://live.streamplay.in:1935/news9/news9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png" group-title="GPTR Local Channel",Samskuruthi TV
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1239252415599862167160536.png" group-title="GPTR Local Channel",V6 News Tv
-https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1238455999003030545830557.png" group-title="GPTR Local Channel",Tv5 News
-https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/110322/tv5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1014113424843607128214259.png" group-title="GPTR Local Channel",Sagar Express Tv
 http://sexpress.mythrimediaindia.com:1935/sexpress/sexpress/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1005466976188830820894452.png" group-title="GPTR Local Channel",Shakthi Tv
@@ -226,12 +223,10 @@ http://rikuta.in:1935/bv9/bv9/chunklist_w1435248932.m3u8
 http://rikuta.in:1935/saranyatv/saranyatv/chunklist_w1267284690.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_2353391927159872190853926.png" group-title="GPTR Local Channel",G Channel
 http://gchannel.mythrimediaindia.com:1935/gchannel/gchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_0911565137289876885292085.png" group-title="GPTR Local Channel",Vissa Tv
-http://59.103.181.178:8000/play/a06k/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_0904394635799922645294913.png" group-title="GPTR Local Channel",Raj News Telugu
 http://59.103.181.178:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240322_0716058601657226829478064.png" group-title="GPTR Local Channel",ETV Telangana
-https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0647475188501116431988720.png" group-title="GPTR Local Channel",Tv9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_2311003626446583516937604.png" group-title="GPTR Local Channel",Rich Tv
@@ -244,20 +239,6 @@ https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/play
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="GPTR Local Channel",SVBC4
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2315297792197829596499748.png" group-title="GPTR Local Channel",PMC Tv
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711091471/ei/r9r8ZbSmD7GE6dsPy8qkqA8/ip/89.163.231.66/id/xhaiooSX3Zc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4g5edndk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1dnUmroEVquDZB5wzjI9_KjqC4SF-DjUMpDK8DDDnY/vprv/1/playlist_type/DVR/mh/az/mm/44/mn/sn-4g5edndk/ms/lva/mv/u/mvi/3/pl/26/dover/11/pacing/0/keepalive/yes/mt/1711068377/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPI6h5oVgAUEzrgT_nI7ihckpf_xCxas_ftFELvV5bmuAiBH5VqvP_AygkfImU6D19l5TRiPK1lZsi0d1awhW8kt1w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgOYHKYaaH3SwMw98izwO4rbZ4cTuLBtGo0drk-r09AxUCICl5er2jUVlTkgXYBU9tuz_Bw9tZ9oGlZqKmCUQXwJgd/playlist/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2311464193272404767746218.png" group-title="GPTR Local Channel",Mahaa News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711091594/ei/Ktv8ZeeBOMPHi9oPgeCjoA8/ip/89.163.231.66/id/guoyy3xYmtQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-4g5e6nsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7Hf-fhexj7bIsErq7n80EbSPMloQJdZNWS4TOGCjj8/vprv/1/playlist_type/DVR/mh/gh/mm/44/mn/sn-4g5e6nsy/ms/lva/mv/u/mvi/2/pl/26/dover/11/pacing/0/keepalive/yes/mt/1711068377/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgSk8TKWfbSBsNmZao-44yEXZWsbyfRRr0r3jEwiH-5pUCIGlEUGa7_v8XXJDE3A6NnCtkAbRMh18q-9eGg9HhaCsq/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgF1oDXTZ05RKPRSCgSyAt2shwolPh-_E17VtWAeHBsZACIE4mTv7btuRrI4lXdcbCWCw_RbI-aClYQmm993rr5zfJ/playlist/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2305153861621093416073087.png" group-title="GPTR Local Channel",HM Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710891096/ei/-Mv5ZYKXLN3d4-EPx4epkAM/ip/54.254.162.138/id/44mb9R154Do.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066119/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2tixJh3lBZE8u8bSgC9aIb9CR80vDlLduMfMxqkv-U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALjlcQ6atZfD02qCQQyQ1qiWohr5TrNIFYllZ-zC1jY7AiEArEPvjq8EfvQSelHmZQbn1fIZ92bH3NijsV4kC-0r92U%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1124583089490078495547654.png" group-title="GPTR Local Channel",ABN Tv
-https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1122066510982881430827094.png" group-title="GPTR Local Channel",99 Tv
-https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1120352949187153799733711.png" group-title="GPTR Local Channel",10Tv
-https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1115102137206449305798131.png" group-title="GPTR Local Channel",Gospel Tv
-http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="GPTR Local Channel",Vihari Tv
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png" group-title="GPTR Local Channel",MA Telanagana Tv
@@ -396,8 +377,6 @@ http://channel9hd.in:1935/hd/hd/chunklist_w1051485029.m3u8
 http://rikuta.in:1935/bv9/bv9/chunklist_w1435248932.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_2229337255893534153798290.png" group-title="Telugu GPTR Local Channel",Vihari Tv
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070156.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0950021333474948682152533.png" group-title="Telugu GPTR Local Channel",Metro TV
-https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1045594508785308786247913.png" group-title="Telugu GPTR Local Channel",Super TV
 http://server.streamplay.in:1935/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1050104022054752376617765.png" group-title="Telugu GPTR Local Channel",V5 News Tv
@@ -456,12 +435,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 http://richtv.stream.onecloudlive.in/richtv/richtvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_231019233070381762179940.png" group-title="Telugu GPTR Local Channel",Ayush Tv
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Telugu GPTR Local Channel",SVBC1
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Telugu GPTR Local Channel",SVBC3
-https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Telugu GPTR Local Channel",SVBC4
-https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png" group-title="Telugu GPTR Local Channel",MA Telanagana Tv
 http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2006476299782552227397379.png" group-title="Telugu GPTR Local Channel",Sannidi Tv
@@ -486,20 +459,6 @@ http://stream.sundaylive.co.in:8088/srichannel/srichannel.m3u8
 http://citytv.phoenixcreations.online/citytv/citytv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",tcn
 http://stream.sundaylive.co.in:8088/tcndigital/tcndigital.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2315297792197829596499748.png" group-title="Telugu GPTR Local Channel",PMC Tv
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711091471/ei/r9r8ZbSmD7GE6dsPy8qkqA8/ip/89.163.231.66/id/xhaiooSX3Zc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-4g5edndk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1dnUmroEVquDZB5wzjI9_KjqC4SF-DjUMpDK8DDDnY/vprv/1/playlist_type/DVR/mh/az/mm/44/mn/sn-4g5edndk/ms/lva/mv/u/mvi/3/pl/26/dover/11/pacing/0/keepalive/yes/mt/1711068377/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPI6h5oVgAUEzrgT_nI7ihckpf_xCxas_ftFELvV5bmuAiBH5VqvP_AygkfImU6D19l5TRiPK1lZsi0d1awhW8kt1w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgOYHKYaaH3SwMw98izwO4rbZ4cTuLBtGo0drk-r09AxUCICl5er2jUVlTkgXYBU9tuz_Bw9tZ9oGlZqKmCUQXwJgd/playlist/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2311464193272404767746218.png" group-title="Telugu GPTR Local Channel",Mahaa News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711091594/ei/Ktv8ZeeBOMPHi9oPgeCjoA8/ip/89.163.231.66/id/guoyy3xYmtQ.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-4g5e6nsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7Hf-fhexj7bIsErq7n80EbSPMloQJdZNWS4TOGCjj8/vprv/1/playlist_type/DVR/mh/gh/mm/44/mn/sn-4g5e6nsy/ms/lva/mv/u/mvi/2/pl/26/dover/11/pacing/0/keepalive/yes/mt/1711068377/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgSk8TKWfbSBsNmZao-44yEXZWsbyfRRr0r3jEwiH-5pUCIGlEUGa7_v8XXJDE3A6NnCtkAbRMh18q-9eGg9HhaCsq/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgF1oDXTZ05RKPRSCgSyAt2shwolPh-_E17VtWAeHBsZACIE4mTv7btuRrI4lXdcbCWCw_RbI-aClYQmm993rr5zfJ/playlist/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_2305153861621093416073087.png" group-title="Telugu GPTR Local Channel",HM Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710891096/ei/-Mv5ZYKXLN3d4-EPx4epkAM/ip/54.254.162.138/id/44mb9R154Do.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066119/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2tixJh3lBZE8u8bSgC9aIb9CR80vDlLduMfMxqkv-U/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALjlcQ6atZfD02qCQQyQ1qiWohr5TrNIFYllZ-zC1jY7AiEArEPvjq8EfvQSelHmZQbn1fIZ92bH3NijsV4kC-0r92U%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1124583089490078495547654.png" group-title="Telugu GPTR Local Channel",ABN Tv
-https://ythls.armelin.one/channel/UC_2irx_BQR7RsBKmUV9fePQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1122066510982881430827094.png" group-title="Telugu GPTR Local Channel",99 Tv
-https://ythls.armelin.one/channel/UCl5YgCiwSRVOiC2Nd1P9v1A.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1120352949187153799733711.png" group-title="Telugu GPTR Local Channel",10Tv
-https://ythls.armelin.one/channel/UCfymZbh17_3T_UhgjkQ9fRQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240319_1115102137206449305798131.png" group-title="Telugu GPTR Local Channel",Gospel Tv
-http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",gee tv
 http://mn.capitalfi.net:8088/geetv/geetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",d news
@@ -546,20 +505,12 @@ https://amigofx.com:1936/acndigital/acndigital/playlist.m3u8
 https://amigofx.com:1936/acngadwali/acngadwali/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://apps.tamilstream.in/v1/016sr7tvnews/assets/aboutus/sr7tvnews-profileavathar-sr7tvnews1695987371.jpg" group-title="Telugu GPTR Local Channel",SR7TV News
 http://sr7tv.phoenixcreations.online:1935/sr7tv/sr7tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/ugL9mhxyZ3_0QHXVyBOHWLiohCs9pyKAfpQYhplWBG2ntgm6eOSL-gK_EKbzEQjDcyN1=w240-h480-rw" group-title="Telugu GPTR Local Channel",Studio N Telugu
-http://studion.phoenixcreations.online:1935/studion/studion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",sntv telugu
 https://live.sntvtelugu.com/sntvtelugu/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",k2 news
 https://k2new.in/hls/k2news.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",4 sides tv
 https://mars.streambridge.cloud/4sidestv/telugu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/tollytv_512X512_balck.png" group-title="Telugu GPTR Local Channel",Tolly Tv
-https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBhF_sy_dVrZuGW2F1B_dvkFi6JSlMR_vG7etu-iyj9w=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu GPTR Local Channel",Mango TV Telugu
-https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Mana_TV_HD_white.png" group-title="Telugu GPTR Local Channel",Mana TV
-https://8088y.site/YuppTv-FTA/master.php?path=mana-tv%2Flive&.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SR
 https://vvsolutions-server11.in/sr_14/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",PMC
@@ -596,10 +547,6 @@ https://amigofx.com:1936/sarkartv/sarkartv/playlist.m3u8
 http://cloud.streamplay.in:1935/tnn/tnn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Mana tv2
 https://manatv.akamaized.net/120723/smil:manatv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Mana tv international
-https://manatv.akamaized.net/090823/smil:manatvint.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Metro TV
-https://mercury.streambridge.cloud:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",TR9
 https://live.tr9tv.com/tr9tv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",City news
