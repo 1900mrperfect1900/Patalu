@@ -363,12 +363,6 @@ http://poojarihealth.live:1935/ravikiranalu/ravikiranalu/chunklist_w1926338509.m
 http://rikuta.in:1935/saranyatv/saranyatv/chunklist_w1267284690.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_2353391927159872190853926.png" group-title="Telugu GPTR Local Channel",G Channel
 http://gchannel.mythrimediaindia.com:1935/gchannel/gchannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_0911565137289876885292085.png" group-title="Telugu GPTR Local Channel",Vissa Tv
-http://59.103.181.178:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_0904394635799922645294913.png" group-title="Telugu GPTR Local Channel",Raj News Telugu
-http://59.103.181.178:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240322_0716058601657226829478064.png" group-title="Telugu GPTR Local Channel",ETV Telangana
-https://ythls.armelin.one/channel/UC6ickpgDIsltU_-8CbZaksQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1109107758779798190711645.png" group-title="Telugu GPTR Local Channel",Bakthi TV
 http://longstream-05.ajaah.com/PlayBoxTV/NTVBhakthi/PlayBoxTV/NTVBhakthi_2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1208251078335912520410522.png" group-title="Telugu GPTR Local Channel",Local News Tv
