@@ -89,21 +89,21 @@ https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
 https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",YSR TV
 https://vvsolutions.in/ysrtv/ysrtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",AP LOCAL TC
 https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",LMC TV
 https://vvsolutions.in/lmc/lmc.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",K TIMES TV
 https://vvsolutions.in/ktimes/ktimes.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",CABLE TAANDUR
 https://vvsolutions.in/cabletandur/cabletandur.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SREE NEWS
 https://vvsolutions.in/sreenews/sreenews.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TV8 NEWS
 https://vvsolutions.in/tv8news/tv8news.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",YJTV TELUGU
 https://vvsolutions.in/yjtv/yjtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Sindhura News
 https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
@@ -113,43 +113,40 @@ https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
 https://vvsolutions-server12.in/localtvkaratagi_15/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",ACN Gold
 https://vvsolutions-server12.in/acngold_16/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",MEDIA10 TELUGU
 https://vvsolutions-server14.in/media10news_22/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SLN NEWS
 https://vvsolutions-server11.in/slnnews_2/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Nandi TV
 https://vvsolutions-server11.in/nanditv_10/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",AKSHARA BANJARA
 https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SANTOSHAM TV
 https://vvsolutions-server10.in/hls/santhoshamtv_110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",R5TV
 https://vvsolutions-server13.in/r5tv_28/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",DTV
 https://vvsolution.in/hls/dtvkannada_627.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",AKSHARA NEWS
 https://vvsolutions.in/aksharanews/aksharanews.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",CTV News
 https://vvsolutions.in/ctvnews/ctvnews.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SRKENT
 https://amigofx.com:1936/srkent/srkent/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",HARIKASTAR
 https://amigofx.com:1936/harikastar/harikastar/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",JK CITY TV
 https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",LOCAL NEWS TELUGU
 https://amigofx.com:1936/localnews/localnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",PCN HD
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",SITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",STV
 https://amigofx.com:1936/stv/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TELUGU",A1TV TELUGU
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",CCC HD
 https://amigofx.com:1936/ccchd/ccchd/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1753232738761369176382132.png" group-title="GPTR Local Channel",Mana Tv
 http://decode.streamplay.in:1935/telugutv/telugutv/chunklist_w2044669398.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="GPTR Local Channel",Siti Channel
