@@ -181,22 +181,6 @@ http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 http://live.streamplay.in:1935/news9/news9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png" group-title="GPTR Local Channel",Samskuruthi TV
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1014113424843607128214259.png" group-title="GPTR Local Channel",Sagar Express Tv
-http://sexpress.mythrimediaindia.com:1935/sexpress/sexpress/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1005466976188830820894452.png" group-title="GPTR Local Channel",Shakthi Tv
-http://shakthitv.mythrimediaindia.com:1935/shakthitv/shakthitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0954013476943898683982285.png" group-title="GPTR Local Channel",Sri Chakra
-http://srichakra.mythrimediaindia.com:1935/srichakra/srichakra/chunklist_w922956034.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0059564769942902029181048.png" group-title="GPTR Local Channel",Channel 9 News
-http://channel9hd.in:1935/hd/hd/chunklist_w1051485029.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Channel 9 News
-https://cloud.smartplaytv.in/BathukammaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Channel 9 News
-https://cloud.smartplaytv.in/MastiMusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Channel 9 News
-https://cloud.smartplaytv.in/SDTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Channel 9 News
-https://cloud.smartplaytv.in/ShakthiTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0037188944456085858121867.png" group-title="GPTR Local Channel",Satya News Tv
 http://103.146.170.102:1935/satya/satya/chunklist_w1792896619.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0028141735430503464585768.png" group-title="GPTR Local Channel",Ravi Krishnalu Tv
@@ -207,10 +191,8 @@ http://rikuta.in:1935/bv9/bv9/chunklist_w1435248932.m3u8
 http://rikuta.in:1935/saranyatv/saranyatv/chunklist_w1267284690.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240331_2353391927159872190853926.png" group-title="GPTR Local Channel",G Channel
 http://gchannel.mythrimediaindia.com:1935/gchannel/gchannel/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_0904394635799922645294913.png" group-title="GPTR Local Channel",Raj News Telugu
 http://59.103.181.178:8000/play/a06o/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240321_0647475188501116431988720.png" group-title="GPTR Local Channel",Tv9
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_2311003626446583516937604.png" group-title="GPTR Local Channel",Rich Tv
