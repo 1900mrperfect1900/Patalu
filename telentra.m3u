@@ -561,10 +561,6 @@ http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
 http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Sama music
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRicm5ld3Nfc2NyZWVuXzBfMTU5ODY0Njg5NF8wMTM/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Telugu GPTR Local Channel",DBR News
-http://telugusolutions.in:8088/dbr12/dbr12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Bomsak
-http://cache.internode.co.in:6081/Bomsak/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SSLC Multiplex
 http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Bathukamma TV
