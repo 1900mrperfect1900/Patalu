@@ -195,24 +195,6 @@ https://cloud.dndcommunication.in/vismaya/vismaya/playlist.m3u8
 https://amigofx.com:1936/ychannel/ychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",GTPL
 http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Sama Comedy
-http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Roshni
-http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Sama TV
-http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/3jhX8a4VS40rxG2DRElPi19CLK32TZ7zyh1RoSTCIT3tFu3Dhw-n0TGIIPNvB0vtuw=w240-h480-rw" group-title="Telugu GPTR Local Channel",new tv telugu
-http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",jkc city
-https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_U1geY1_qxxCsQgtjQyTLwOSF3HUAKbshFTMSGL476rZRvz36p43kkkH1EVlH99kKZ0=w240-h480-rw" group-title="Telugu GPTR Local Channel",p news
-http://pnews.phoenixcreations.online/pnews/pnews/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/SX3ymrvvRltkEq3J6bPLC6g34GGnUcDdKHIEZo02I_kOnrSkLsw0mG_UZt2gLeUvVxs=w240-h480-rw" group-title="Telugu GPTR Local Channel",mtv channel
-https://vvsolutions.in/mtvchannel/mtvchannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Super TV
-http://mars.streambridge.cloud:1935/livetv/SuperTV/playlist.m3u8
-#EXTINF:-1 tvg-id="668e0dc2368f69.47300947" tvg-logo="https://i.postimg.cc/qMw76Mfn/Screenshot-2025-04-13-212410-removebg-preview.png" group-title="Telugu GPTR Local Channel",VV Comedy HD
-http://allchannels.in:80/live/vvcomedy_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930056864.png" group-title="Telugu GPTR Local Channel",VV Movies HD
 http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu GPTR Local Channel",VV Music HD
