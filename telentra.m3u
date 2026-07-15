@@ -263,8 +263,6 @@ http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
 http://cloud.streamplay.in:1935/ggv/ggv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1223351702837409982739162.png" group-title="Telugu GPTR Local Channel",News 9 Today
 http://live.streamplay.in:1935/news9/news9/playlist.m3u8
-#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://play-lh.googleusercontent.com/bKKt89-_fMbTPa9Oby_lop-lVwW5tgjfHGB6ZRzrO5kmXNbPniBHkrW9PJ3gCoRmcWo=s180-rw" group-title="Telugu GPTR Local Channel",Mana Telugu TV
-http://decode.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/zillavani.jpg" group-title="Telugu GPTR Local Channel",Zillavani
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://raw.githubusercontent.com/MKChary/Iptv-list/master/my3telugu.jpg" group-title="Telugu GPTR Local Channel",my3telugu
@@ -297,10 +295,6 @@ http://202.83.27.171:1935/sslm/live/playlist.m3u8
 http://live.streamplay.in:1935/bkamma/bkamma/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1226044069751046667525230.png" group-title="Telugu GPTR Local Channel",Samskuruthi TV
 http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1239252415599862167160536.png" group-title="Telugu GPTR Local Channel",V6 News Tv
-https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/140622/v6news/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1238455999003030545830557.png" group-title="Telugu GPTR Local Channel",Tv5 News
-https://medtaor.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/plives/110322/tv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1014113424843607128214259.png" group-title="Telugu GPTR Local Channel",Sagar Express Tv
 http://sexpress.mythrimediaindia.com:1935/sexpress/sexpress/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1005466976188830820894452.png" group-title="Telugu GPTR Local Channel",Shakthi Tv
@@ -365,16 +359,12 @@ https://amigofx.com:1936/srkent/srkent/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/BathukammaTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bathukammatvlive.com/images/1.png" group-title="Telugu GPTR Local Channel",Masti Music
 https://mumbai-edge.smartplaytv.in/MastiMusic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bathukammatvlive.com/images/3.png" group-title="Telugu GPTR Local Channel",Shakthi Tv
-https://cloud.smartplaytv.in/ShakthiTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lKovrVHvz0LyE-8egnreZsny51fMth5OsKXzkV7-lDTSU=s900-c-k-c0x00ffffff-no-rj" group-title="Telugu GPTR Local Channel",ccc channel
 https://amigofx.com:1936/ccchd/ccchd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Gs Grameena
 https://amigofx.com:1936/gsgrameena/gsgrameena/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Harika Star
 https://amigofx.com:1936/harikastar/harikastar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Yuva Tv
-https://amigofx.com:1936/yuvatv/yuvatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",WPN digital
 https://amigofx.com:1936/wpndigital/wpndigital/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Sattva Tv
