@@ -197,8 +197,6 @@ https://cloud.dndcommunication.in/vismaya/vismaya/playlist.m3u8
 https://amigofx.com:1936/ychannel/ychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",GTPL
 http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930056864.png" group-title="Telugu GPTR Local Channel",VV Movies HD
 http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu GPTR Local Channel",VV Music HD
@@ -261,7 +259,6 @@ http://cloud.streamplay.in:1935/telanganasamskruthi/telanganasamskruthi/playlist
 http://103.146.170.102:1935/satya/satya/chunklist_w1792896619.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1213365139434579521226748.png" group-title="Telugu GPTR Local Channel",Telugu Tv
 http://live.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240320_231019233070381762179940.png" group-title="Telugu GPTR Local Channel",Ayush Tv
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_200108841953982628392143.png" group-title="Telugu GPTR Local Channel",MA Telanagana Tv
@@ -292,7 +289,6 @@ http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
 http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",K6 channel
 http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SSLC Multiplex
 http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Bathukamma TV
@@ -307,14 +303,10 @@ http://cache.internode.co.in:6081/SSLCGold/index.m3u8
 http://cache.internode.co.in:6081/SSLCCinemalu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",BCT Classic
 http://cache.internode.co.in:6081/BCTClassic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SSLC2 Cinemalu
-http://cache.internode.co.in:6081/SSLC2Cinemalu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Manavooru
 http://cache.internode.co.in:6081/Manavooru/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Vinodam HD
 http://cache.internode.co.in:6081/VinodamHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",2Telugu
-http://cache.internode.co.in:6081/2Telugu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",ds9e
 http://cache.internode.co.in:6081/ds9e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",S9 News
@@ -329,8 +321,6 @@ http://cache.internode.co.in:6081/GeeTV/index.m3u8
 http://cache.internode.co.in:6081/TirumalaHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",citynews
 http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",MaaCable
-http://cache.internode.co.in:6081/MaaCable/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",PCNHD
 http://cache.internode.co.in:6081/PCNHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",ReshyaTV
