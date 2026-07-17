@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",Sama music
-http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",DS9 MUSIC
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",SSLC MUSIC
@@ -149,6 +147,8 @@ https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 https://amigofx.com:1936/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELUGU",CCC HD
 https://amigofx.com:1936/ccchd/ccchd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",Sama music
+http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="GPTR Local Channel",Siti Channel
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1044355606823935916944729.png" group-title="GPTR Local Channel",TV7 Hills
