@@ -439,24 +439,8 @@ https://vvsolutions.in/lmc/lmc.m3u8
 https://allchannels.in/vinodam/video.m3u8
 #EXTINF:-1 tvg-name="Tirumal" group-title="Local Channels" tvg-logo="https://i.ibb.co/k2nt0933/Tirumal.jpg",Tirumal
 https://allchannels.in/tmc/video.m3u8
-#EXTINF:-1 tvg-name="Zoy HD" group-title="Local Channels" tvg-logo="https://i.ibb.co/yBRwPHG2/20250908-172328.jpg",Zoy HD
-https://allchannels.in/zoyhd/video.m3u8
-#EXTINF:-1 tvg-name="RK Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/8gySxQ9K/20250908-172518.jpg",RK Tv
-https://allchannels.in/rktv/video.m3u8
-#EXTINF:-1 tvg-name="JVR News" group-title="Local Channels" tvg-logo="https://i.ibb.co/C4r49yF/20250908-172711.jpg",JVR News
-https://vvsolution.in/hls/jvrnews_623.m3u8
-#EXTINF:-1 tvg-name="V Power" group-title="Local Channels" tvg-logo="https://i.ibb.co/9HYr3vRD/1000120777.jpg",V Power
-https://vvsolutions.in/vpowernews_343/vpowernews_343.m3u8
-#EXTINF:-1 tvg-name="DBR News" group-title="Local Channels" tvg-logo="https://i.ibb.co/CKSCHP0k/1000120783.jpg",DBR News
-https://vvsolutions.in/dbr12/dbr12.m3u8
-#EXTINF:-1 tvg-name="Akshara News" group-title="News" tvg-logo="https://i.ibb.co/wF1MGwQv/20250908-201408.jpg",Akshara News
-https://vvsolutions.in/aksharanews/aksharanews.m3u8
 #EXTINF:-1 tvg-name="Sree News" group-title="Local Channels" tvg-logo="https://i.ibb.co/spzNFVX5/1000120817.jpg",Sree News
 https://vvsolutions.in/sreenews/sreenews.m3u8
-#EXTINF:-1 tvg-name="Tv8 News" group-title="Local Channels" tvg-logo="https://i.ibb.co/FbRccWcT/1000120820.jpg",Tv8 News
-https://vvsolutions.in/tv8news/tv8news.m3u8
-#EXTINF:-1 tvg-name="RK9 News" group-title="Local Channels" tvg-logo="https://i.ibb.co/wFD7p9WK/1000120837.png",RK9 News
-https://vvsolutions.in/rk9news/rk9news.m3u8
 #EXTINF:-1 tvg-name="YSR Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/XkpMfT3T/1000120842.jpg",YSR Tv
 https://vvsolutions.in/ysrtv/ysrtv.m3u8
 #EXTINF:-1 tvg-name="SS News" group-title="Local Channels" tvg-logo="https://i.ibb.co/Q3WwtVz8/1000120854.jpg",SS News
@@ -513,6 +497,5 @@ https://mars.streambridge.cloud/4sidestv/telugu/playlist.m3u8
 https://www.schannels.in/SITI24X7_1/index.m3u8
 #EXTINF:-1 tvg-name="SS Tv Telugu" group-title="Local Channels" tvg-logo="https://i.ibb.co/5xM3Hd57/1000139367.jpg",SS Tv Telugu
 https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
-#EXTINF:-1 tvg-name="Mango Tv" group-title="Entertainment" tvg-logo="https://i.ibb.co/sdMD63b0/1000139453.jpg",Mango Tv
-https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+
 
