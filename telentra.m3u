@@ -429,10 +429,6 @@ https://www.schannels.in/SITI24X7_1/index.m3u8
 https://amigofx.com:1936/pcnhd/pcnhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Harika Star" group-title="Local Channels" tvg-logo="https://amigofx.com/livetvlogo/harikastar.png",Harika Star
 https://amigofx.com:1936/harikastar/harikastar/playlist.m3u8
-#EXTINF:-1 tvg-name="Keerthana TV" group-title="Local Channels" tvg-logo="https://amigofx.com/livetvlogo/keerthanatv.png",Keerthana TV
-https://amigofx.com:1936/KeerthanaTv/KeerthanaTv/playlist.m3u8
-#EXTINF:-1 tvg-name="CCC HD" group-title="Local Channels" tvg-logo="https://amigofx.com/livetvlogo/ccchd.png",CCC HD
-https://amigofx.com:1936/ccchd/ccchd/playlist.m3u8
 #EXTINF:-1 tvg-name="YJ Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/GQ76SsCp/20250907-223543.jpg",YJ Tv
 https://vvsolutions.in/yjtv/yjtv.m3u8
 #EXTINF:-1 tvg-name="Siti Cable" group-title="Local Channels" tvg-logo="https://i.ibb.co/3mmMXxqn/siticablenews.jpg",Siti Cable
