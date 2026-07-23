@@ -7,7 +7,41 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telugu",J7 TV News 24x7
 https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Media 10
+https://vvsolutions-server14.in/media10news_22/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",SLN News
+https://vvsolutions-server11.in/slnnews_2/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Akshara Banjara
+https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Akshara News
+https://vvsolutions.in/aksharanews/aksharanews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Jee TV
+https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Siti Cable News Tandur
+https://vvsolutions.in/cabletandur/cabletandur.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Sree News
+https://vvsolutions.in/sreenews/sreenews.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",YJ TV
+https://vvsolutions.in/yjtv/yjtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",YSR TV
+https://vvsolutions.in/ysrtv/ysrtv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Kannada",Virat TV
 https://venus.streambridge.link:8047/kannada/virattv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Sindhura News
+https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Sindhura TV
+https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Local TV Karatagi
+https://vvsolutions-server12.in/localtvkaratagi_15/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",ACN Gold
+https://vvsolutions-server12.in/acngold_16/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Nandi TV
+https://vvsolutions-server11.in/nanditv_10/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",DTV
+https://vvsolution.in/hls/dtvkannada_627.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",CTV News
+https://vvsolutions.in/ctvnews/ctvnews.m3u8
+
