@@ -40,6 +40,4 @@ https://vvsolutions-server12.in/acngold_16/video.m3u8
 https://vvsolutions-server11.in/nanditv_10/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kannada",DTV
 https://vvsolution.in/hls/dtvkannada_627.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kannada",CTV News
-https://vvsolutions.in/ctvnews/ctvnews.m3u8
 
