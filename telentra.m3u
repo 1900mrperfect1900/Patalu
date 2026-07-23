@@ -106,34 +106,22 @@ http://cache.internode.co.in:6081/GeeTV/index.m3u8
 http://cache.internode.co.in:6081/TirumalaHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",citynews
 http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",MaaCable
-http://cache.internode.co.in:6081/MaaCable/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",PCNHD
 http://cache.internode.co.in:6081/PCNHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",IRMedia
-http://cache.internode.co.in:6081/IRMedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",AWAAZNEWS
-http://cache.internode.co.in:6081/AWAAZNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",ReshyaTV
 http://cache.internode.co.in:6081/ReshyaTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",News9
 http://cache.internode.co.in:6081/News9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",ABNews
 http://cache.internode.co.in:6081/ABNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",V27
-http://cache.internode.co.in:6081/V27/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Shakthi TV
 http://cache.internode.co.in:6081/ShakthiTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",BCT Keerthana
 http://cache.internode.co.in:6081/BCTKeerthana/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Publictv
-http://cache.internode.co.in:6081/Publictv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",DS9
 http://cache.internode.co.in:6081/DS9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",BCT Music
 http://cache.internode.co.in:6081/BCTMusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SRK News
-http://cache.internode.co.in:6081/SRKNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Rapid Media
 http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",YLR9
@@ -142,8 +130,6 @@ http://cache.internode.co.in:6081/YLR9/index.m3u8
 http://cache.internode.co.in:6081/LocalTVNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",victoria Media
 http://cache.internode.co.in:6081/victoriaMedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SuperTv
-http://cache.internode.co.in:6081/SuperTv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",MTV
 http://cache.internode.co.in:6081/MTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Janapadalu
@@ -154,8 +140,6 @@ http://cache.internode.co.in:6081/MastiMusic/index.m3u8
 http://cache.internode.co.in:6081/SSLCBanjaraDolu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",SSLC Music
 http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",Shreyas Music
-http://cache.internode.co.in:6081/ShreyasMusic/index.m3u8
 
 
 
