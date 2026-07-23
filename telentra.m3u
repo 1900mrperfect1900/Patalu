@@ -8,6 +8,23 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/main.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/main.mpd
+
+#EXTINF:-1 tvg-id="1111" tvg-name="Maa Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies.png" tvg-language="Telugu" group-title="Movies", Maa Movies
+http://103.159.180.34:5001/live/1111.m3u8
+#EXTINF:-1 tvg-id="1112" tvg-name="Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" group-title="Entertainment", Maa HD
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#EXTVLCOPT:http-origin=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
+#EXTINF:-1 tvg-id="1129" tvg-name="Maa Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png" tvg-language="Telugu" group-title="Music", Maa Music
+#http://103.159.180.34:5001/live/1129.m3u8
+#EXTINF:-1 tvg-id="1137" tvg-name="Maa Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png" tvg-language="Telugu" group-title="Movies", Maa Gold
+#http://103.159.180.34:5001/live/1137.m3u8
+#EXTINF:-1 tvg-id="1138" tvg-name="Star Maa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Maa.png" tvg-language="Telugu" group-title="Entertainment", Star Maa
+#http://103.159.180.34:5001/live/1138.m3u8
+
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/89802/etv-plus-320x240.jpg" group-title="ETV Win",ETV Plus
 https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="" group-logo="https://www.etvwin.com/assets/img/logo-25.png" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg" group-title="ETV Win",ETV Cinema
