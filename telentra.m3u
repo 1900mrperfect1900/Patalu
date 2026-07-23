@@ -69,7 +69,7 @@ http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",DBR News
 http://telugusolutions.in:8088/dbr12/dbr12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Grate Guntur
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Greater Guntur
 http://cloud.streamplay.in:1935/ggv/ggv/playlist.m3u8
 
 
