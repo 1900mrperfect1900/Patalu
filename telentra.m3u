@@ -501,8 +501,6 @@ https://vvsolutions.in/cabletandur/cabletandur.m3u8
 https://vvsolutions-server13.in/r5tv_28/video.m3u8
 #EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Akshara Banjara
 https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Kishore TV
-https://vvsolutions-server10.in/hls/santhoshamtv_110.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1203058773850208711274950.png" group-title="Telugu Local Channel",Studio 18 Tv
 http://cloud.streamplay.in:1935/studio18/studio18/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1pbm51LnN0cmVhbXBsYXkudGVsYW5nYW5hc2Ftc2tydXRoaV9zY3JlZW5fM18xNjI0MDU3NjE5XzAxNg/screen-3.jpg?fakeurl=1&type=.jpg" group-title="Telugu Local Channel",Telangana Samskruthi
