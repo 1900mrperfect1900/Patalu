@@ -82,20 +82,16 @@ https://login.bheem.tv/bpk-tv/22327/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
 https://login.bheem.tv/bpk-tv/22362/output/index.mpd
 
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", DS9 Music
+#EXTINF:-1 group-title="Telugu" tvg-logo="", DS9 Music
 https://mumbai-edge.smartplaytv.in/Ds9music/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu GPTR Local Channel",VV Music HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",VV Music HD
 http://allchannels.in:80/live/vvmusic_100/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local",Masti Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Masti Music
 http://cache.internode.co.in:6081/MastiMusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local",BCT Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",BCT Music
 http://cache.internode.co.in:6081/BCTMusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Sama music
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
-#EXTINF:-1 group-title="Telugu" tvg-logo="", KNR CHANNEL
-https://live.mythrimediaindia.com/knrchannel/knrchannel/chunklist_w514144468.m3u8
-#EXTINF:-1 group-title="Telugu" tvg-logo="", Vizag local tv
-https://edmediahub.in/vizaglocaltv/video.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="", TR9 tv
 http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="", A1 TV
@@ -104,7 +100,6 @@ http://183.82.119.7:1935/a1tv/a1tv/playlist.m3u8
 https://vvdflashnews.co.in/vvdnewstv/video.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="", Mojo TV
 https://mumt02.tangotv.in/MOJOTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Telugu",Anjali TV
 https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telugu",Metro TV
@@ -156,7 +151,10 @@ http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
 http://telugusolutions.in:8088/dbr12/dbr12.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Greater Guntur
 http://cloud.streamplay.in:1935/ggv/ggv/playlist.m3u8
-
+#EXTINF:-1 group-title="Telugu" tvg-logo="", KNR CHANNEL
+https://live.mythrimediaindia.com/knrchannel/knrchannel/chunklist_w514144468.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="", Vizag local tv
+https://edmediahub.in/vizaglocaltv/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local",SSLC Multiplex
 http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local",Bathukamma TV
