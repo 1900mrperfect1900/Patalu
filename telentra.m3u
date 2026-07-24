@@ -46,6 +46,18 @@ https://login.bheem.tv/bpk-tv/22327/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
 https://login.bheem.tv/bpk-tv/22362/output/index.mpd
 
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="", Vizag local tv
+https://edmediahub.in/vizaglocaltv/video.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="", TR9 tv
+http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="", A1 TV
+http://183.82.119.7:1935/a1tv/a1tv/playlist.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="", VVD News TV
+https://vvdflashnews.co.in/vvdnewstv/video.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="", Mojo TV
+https://mumt02.tangotv.in/MOJOTV/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Telugu",Anjali TV
 https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telugu",Metro TV
@@ -167,36 +179,23 @@ http://cache.internode.co.in:6081/MastiMusic/index.m3u8
 http://cache.internode.co.in:6081/SSLCBanjaraDolu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local",SSLC Music
 http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", IB TV
+#EXTINF:-1 group-title="GPTR Local" tvg-logo="", IB TV
 https://cloudwire.in/ibtv/playlist.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", IB TV
-https://cloudwire.in/ibtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0059564769942902029181048.png" group-title="Telugu Satellite",Channel 9 News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local",GTPL
+http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local",Sama Comedy
+http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local",Roshni
+http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local",JKC City
+https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0059564769942902029181048.png" group-title="GPTR Local",Channel 9 News
 http://channel9hd.in:1935/hd/hd/playlist.m3u8
-#EXTINF:-1  tvg-name="Satya News Tv" group-title="Telugu Local Channel" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0037188944456085858121867.png",Satya News Tv
+#EXTINF:-1  tvg-name="Satya News Tv" group-title="GPTR Local" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_0037188944456085858121867.png",Satya News Tv
 http://103.146.170.102:1935/satya/satya/playlist.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRicm5ld3Nfc2NyZWVuXzBfMTU5ODY0Njg5NF8wMTM/screen-0.jpg?fakeurl=1&type=.jpg", DBR News
+#EXTINF:-1 group-title="GPTR Local" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRicm5ld3Nfc2NyZWVuXzBfMTU5ODY0Njg5NF8wMTM/screen-0.jpg?fakeurl=1&type=.jpg", DBR News
 http://telugusolutions.in:8088/dbr12/dbr12.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", vizag local tv
-https://edmediahub.in/vizaglocaltv/video.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", tr9 tv
-http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", A1 TV
-http://183.82.119.7:1935/a1tv/a1tv/playlist.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", VVD News TV
-https://vvdflashnews.co.in/vvdnewstv/video.m3u8
-#EXTINF:-1 group-title="Telugu Local Channel" tvg-logo="", Mojo TV
-https://mumt02.tangotv.in/MOJOTV/index.m3u8
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240411_1753232738761369176382132.png" group-title="GPTR Local Channel",Mana Tv
 http://decode.streamplay.in:1935/telugutv/telugutv/chunklist_w2044669398.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240406_0945173890061863052394982.png" group-title="GPTR Local Channel",Siti Channel
@@ -229,14 +228,7 @@ http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/chunklist_w714070
 http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2006476299782552227397379.png" group-title="GPTR Local Channel",Sannidi Tv
 http://sanniditv.phoenixcreations.online:1935/sanniditv/sanniditv/chunklist_w1052960370.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",GTPL
-http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Sama Comedy
-http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GPTR Local Channel",Roshni
-http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu GPTR Local Channel",jkc city
-https://amigofx.com:1936/jkccity/jkccity/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930056864.png" group-title="Telugu GPTR Local Channel",VV Movies HD
 http://allchannels.in:80/live/vvmovies_100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://teluguwebsolutions.in/news_paper/admin/uploads/live_tv/1719930073502.png" group-title="Telugu GPTR Local Channel",VV Music HD
