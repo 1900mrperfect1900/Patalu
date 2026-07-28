@@ -61,7 +61,6 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="Telugu Local",Bheem TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
@@ -91,7 +90,7 @@ http://allchannels.in:80/live/vvmusic_100/tracks-v1a1/mono.m3u8
 http://cache.internode.co.in:6081/MastiMusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",BCT Music
 http://cache.internode.co.in:6081/BCTMusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu"SUPER TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SUPER TV
 https://venus.streambridge.link:8047/telugu/supertv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Sama music
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
