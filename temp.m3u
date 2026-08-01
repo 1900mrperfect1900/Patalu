@@ -3,8 +3,6 @@
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Key News
 https://mumbai-edge.smartplaytv.in/KeyNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SVN NEWS
-https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",AVN TV
 https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",G K MEDIA TV
@@ -59,7 +57,7 @@ https://server.streamwell.in/hls/srkcity.m3u8
 https://mumbai-edge.smartplaytv.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SITI 24X7
 https://www.schannels.in/SITI24X7_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SNEWS NPT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SSTV
 https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
 
 
