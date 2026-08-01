@@ -1,35 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",GEETV Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",ASN NEWS
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Key News
 https://mumbai-edge.smartplaytv.in/KeyNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SVN NEWS
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",AVN TV
 https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",G K MEDIA TV
 https://mumbai-edge.smartplaytv.in/GKMedia/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",MEDIA 10 NEWS
 https://mumbai-edge.smartplaytv.in/Media10News/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SVN NEWS
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",NSR NEWS
 https://mumbai-edge.smartplaytv.in/NSRNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",JAI TELANGANA
 https://mumbai-edge.smartplaytv.in/JaiTelangana/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SATHYA NEWS
 https://mumbai-edge.smartplaytv.in/SathyaNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",TV3
 https://mumbai-edge.smartplaytv.in/TV3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",S10
 https://mumbai-edge.smartplaytv.in/s10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",TS9
 https://mumbai-edge.smartplaytv.in/TS9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",AV NEWS
 https://mumbai-edge.smartplaytv.in/AVNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",Prajavani
 https://mumbai-edge.smartplaytv.in/Prajavani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",CK NEWS
 https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",KERATAM NEWS
 https://mumbai-edge.smartplaytv.in/Keratamnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",VRM MEDIA
 https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",I VIEW
 https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",N24 NEWS
 https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",AN TV
 https://mars.streambridge.link:8052/telugu/antv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",TV 6
 https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",PS NEWS
 https://mumbai-edge.smartplaytv.in/PSNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",D4 TV
 https://server.streamwell.in/hls/d4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SVC TV
 https://mumbai-edge.smartplaytv.in/SVC/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",MEE NEWS
 https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",GS GRAMEENA
 https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SRK CITY
 https://server.streamwell.in/hls/srkcity.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",4 SIDES TV
 https://mumbai-edge.smartplaytv.in/4sidestv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SITI 24X7
 https://www.schannels.in/SITI24X7_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",SNEWS NPT
 https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
 
 
