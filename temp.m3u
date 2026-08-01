@@ -59,5 +59,13 @@ https://mumbai-edge.smartplaytv.in/4sidestv/index.m3u8
 https://www.schannels.in/SITI24X7_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SSTV
 https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CHANAKYA NEWS
+https://mumbai-edge.smartplaytv.in/ChanakyaNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MEDIA TODAY
+https://mumbai-edge.smartplaytv.in/MediaToday/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",JAI-BHIM
+https://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",DEVI CABLE
+https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
 
 
