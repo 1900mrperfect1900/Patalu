@@ -67,5 +67,11 @@ https://mumbai-edge.smartplaytv.in/MediaToday/index.m3u8
 https://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",DEVI CABLE
 https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SINDHURA TV
+https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",NANDHI TV
+https://vvsolutions-server11.in/nanditv_10/video.m3u8
+
+
 
 
