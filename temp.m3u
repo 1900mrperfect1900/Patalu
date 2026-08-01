@@ -1,6 +1,5 @@
 #EXTM3U
-
-https://runn-tv.keralive.workers.dev/runntv/stream/suptel/manifest/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Telugu",GEETV Music
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/KeyNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
