@@ -87,7 +87,7 @@ https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Gold
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
-#EXTINF:-1 group-title="TBHOOM Telugu" tvg-logo="", ACN TV
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", ACN TV
 https://mumbai-edge.smartplaytv.in/acn/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Rapid Media
 https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
