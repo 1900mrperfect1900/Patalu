@@ -67,10 +67,6 @@ https://mumbai-edge.smartplaytv.in/BathukammaTV/video.m3u8
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Tirumala HD
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SRK Entertainments
-https://mumbai-edge.smartplaytv.in/SRKNews/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Local TV
-https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Movies
