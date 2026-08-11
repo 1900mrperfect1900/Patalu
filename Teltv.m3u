@@ -9,6 +9,8 @@ https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Music
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSTV
+https://live.kpsnetwork.in/sstv/sstv/chunklist_w1347549550.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK GOLD
 https://mumbai-edge.smartplaytv.in/RkGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",ASN NEWS
