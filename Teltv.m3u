@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Super Fine Movies Telugu
+https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", DS 9 Music
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", DS9 Music
@@ -145,7 +147,5 @@ https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
 https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",NANDHI TV
 https://vvsolutions-server11.in/nanditv_10/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Super Fine Movies Telugu
-https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
 
