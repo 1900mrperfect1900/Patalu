@@ -11,6 +11,8 @@ https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Music
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", NKR TV
+https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSTV
 https://live.kpsnetwork.in/sstv/sstv/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",KPS Telugu
