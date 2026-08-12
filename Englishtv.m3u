@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Super Fine Movies Telugu
-https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",ENT CHANNEL
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",ENT FAMILY
@@ -11,7 +9,32 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Super Fine Telugu
 https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",FILM BOX LOVE & CRIME
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",FILM BOX
+https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",FILM BOX EMOTION
+https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",CHARGE
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Whiplash-cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Whiplash-2
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Whiplash-1
+https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",LG1 FILIMS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",LG1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11874
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",LG SPOTLIGHT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13955
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SCREAM TV
+https://streams2.sofast.tv/r/ptnr-swifttv/title-SCREAMS_TV_unblock/vglive-sk-517123/manifest.m3u8
 
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", TOTAL MUSIC
