@@ -17,6 +17,8 @@ https://rtmp.streamwell.in/rvdigitaltv.m3u8
 https://live.kpsnetwork.in/sstv/sstv/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",KPS Telugu
 https://live.kpsnetwork.in/kps/kps/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",VEDA SRI
+https://vstechs.in/PTP/vedha/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",ZOY HD
 https://rtmp.streamwell.in/hls/zoyhd.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK GOLD
