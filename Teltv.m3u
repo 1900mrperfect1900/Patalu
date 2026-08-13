@@ -11,8 +11,6 @@ https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RV DIGITAL TV
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", NKR TV
-https://stream.ottlive.co.in/nkrtv/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSTV
 https://live.kpsnetwork.in/sstv/sstv/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",KPS Telugu
@@ -23,6 +21,16 @@ https://rtmp.streamwell.in/hls/zoyhd.m3u8
 https://mumbai-edge.smartplaytv.in/RkGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",ASN NEWS
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VCN TV
+https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Tirumala HD
+https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Classic
+https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Movies
+https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Shreyas TV
+https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Key News
 https://mumbai-edge.smartplaytv.in/KeyNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",AVN TV
@@ -75,16 +83,6 @@ https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Bathukamma TV
 https://mumbai-edge.smartplaytv.in/BathukammaTV/video.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VCN TV
-https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Tirumala HD
-https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Classic
-https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Movies
-https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Shreyas TV
-https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Janapadalu
 https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Banjara Dolu
@@ -105,8 +103,6 @@ https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", DS 9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK TV
-https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BJ TV
 https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK Bhathi
