@@ -55,6 +55,8 @@ https://mumbai-edge.smartplaytv.in/Media10News/index.m3u8
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",NSR NEWS
 https://mumbai-edge.smartplaytv.in/NSRNEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",INB
+https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",JAI TELANGANA
 https://mumbai-edge.smartplaytv.in/JaiTelangana/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SATHYA NEWS
