@@ -25,6 +25,8 @@ https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Tirumala HD
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VICTORY MEDIA
+http://cache.internode.co.in:6081/victoriaMedia/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Movies
@@ -171,11 +173,28 @@ https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",KRS TV
 http://cache.internode.co.in:6081/ds9e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GTN TELUGU
+https://amigofx.com:1936/srkent/srkent/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",108 TV
+http://live.streamplay.in:1935/108tv/108tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",BAVYA TV
+http://encode.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GTPL
+http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GTPL KARIMNAGAR
+http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",K6
+http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CITY NEWS
+http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",RAPID MEDIA
+http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Super Fine Movies Telugu
 https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SINDHURA TV
 https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",NANDHI TV
 https://vvsolutions-server11.in/nanditv_10/video.m3u8
+
 
 
