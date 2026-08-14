@@ -31,6 +31,14 @@ https://mumbai-edge.smartplaytv.in/RkGold/index.m3u8
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",RV FLOCK TV
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",SLN NEWS
+https://vvsolutions-server11.in/slnnews_2/video.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Akshara Banjara
+https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Akshara News
+https://vvsolutions.in/aksharanews/aksharanews.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",JEE TV
+https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",ASN NEWS
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VCN TV
@@ -65,6 +73,8 @@ https://mumbai-edge.smartplaytv.in/SathyaNews/index.m3u8
 https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",TV3
 https://mumbai-edge.smartplaytv.in/TV3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CITY CABLE TANDUR
+https://vvsolutions.in/cabletandur/cabletandur.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",S10
 https://mumbai-edge.smartplaytv.in/s10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",TS9
@@ -79,6 +89,10 @@ https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
 https://mumbai-edge.smartplaytv.in/Keratamnews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",VRM MEDIA
 https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SREE NEWS
+https://vvsolutions.in/sreenews/sreenews.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",YSR TV
+https://vvsolutions.in/ysrtv/ysrtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",I VIEW
 https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",N24 NEWS
