@@ -33,6 +33,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13955
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",AVA SERIES
 https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",30-A TV MOVIES
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",SCREAM TV
 https://streams2.sofast.tv/r/ptnr-swifttv/title-SCREAMS_TV_unblock/vglive-sk-517123/manifest.m3u8
 
