@@ -15,6 +15,8 @@ https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
 http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Vihari TV
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/index.m3u8
+
+
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RV DIGITAL TV
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSTV
@@ -159,6 +161,8 @@ https://mumbai-edge.smartplaytv.in/JournalistToday/index.m3u8
 https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SRK CITY
 https://server.streamwell.in/hls/srkcity.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MULTIPLEX 70MM
+http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",4 SIDES TV
 https://mumbai-edge.smartplaytv.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SITI 24X7
@@ -189,6 +193,8 @@ http://live.streamplay.in:1935/prime1/prime1/playlist.m3u8
 http://cache.internode.co.in:6081/PCNHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SUPER TV
 https://venus.streambridge.link:8047/telugu/supertv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",VIZAG LOCAL
+https://edmediahub.in/vizaglocaltv/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",VICTORY MEDIA
 http://cache.internode.co.in:6081/victoriaMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SEVEN HILLS
