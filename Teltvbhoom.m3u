@@ -31,6 +31,8 @@ https://vstechs.in/PTP/vedha/index.m3u8
 https://rtmp.streamwell.in/hls/zoyhd.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK GOLD
 https://mumbai-edge.smartplaytv.in/RkGold/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK TV
+https://vvsolutions.in/rktv_347/rktv_347.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",7GTV
 https://rtmp.streamwell.in/hls/7gtv.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",RV FLOCK TV
