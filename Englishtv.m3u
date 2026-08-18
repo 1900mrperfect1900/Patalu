@@ -41,6 +41,8 @@ https://streams2.sofast.tv/r/ptnr-swifttv/title-SCREAMS_TV_unblock/vglive-sk-517
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", TOTAL MUSIC
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", TOTAL MUSIC DANACE
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", EPIC MUSIC
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 
