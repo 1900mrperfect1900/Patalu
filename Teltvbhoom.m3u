@@ -17,6 +17,8 @@ https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
 http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Vihari TV
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Satya TV
+https://vstechs.in/PTP/satya/index.m3u8
 
 
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RV DIGITAL TV
