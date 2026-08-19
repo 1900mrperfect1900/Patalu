@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SANATHAN TV
 https://mumbai-edge.smartplaytv.in/SanathanTV/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK BHAKTHI
+https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", DS 9 Music
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GEETV Music
