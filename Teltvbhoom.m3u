@@ -267,3 +267,5 @@ https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",NANDHI TV
 https://vvsolutions-server11.in/nanditv_10/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",JK KANADA
+http://account18.livebox.co.in/jktvkannadahls/live.m3u8
