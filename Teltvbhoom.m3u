@@ -23,6 +23,8 @@ https://vstechs.in/PTP/satya/index.m3u8
 https://vstechs.in/PTP/manaptp/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", JK CITY
 https://amigofx.com:1936/jkccity/jkccity/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", CITI CHANNEL
+https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RV DIGITAL TV
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
