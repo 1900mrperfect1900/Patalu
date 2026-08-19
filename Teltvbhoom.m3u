@@ -19,7 +19,8 @@ http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/i
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Satya TV
 https://vstechs.in/PTP/satya/index.m3u8
-
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Mana Pitapuram
+https://vstechs.in/PTP/manaptp/index.m3u8
 
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RV DIGITAL TV
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
