@@ -1,1 +1,93 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="2363" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S8HZ.png?lock=720x540" group-title="Telugu",Zee Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/main.mpd
+#EXTINF:-1 tvg-chno="2405" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZNDZ.png?lock=720x540" group-title="Telugu",Zee Cinemalu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/main.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194396" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",Gemini TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ec6fa5b77ff4223a376c2b98032fbf8:afe96f602fd6abedcd9c2c8cdf799afd
+https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194392" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg", Gemini HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194384" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg", Gemini Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194393" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg", Gemini Music HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194395" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" ,Gemini Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0faa2e9469fc45fdaf1728333351ec71:ffcf9dee6ede62bd8740dacfaa0c1e59
+https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194394" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194337" tvg-language="Telugu" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" ,Gemini Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194407" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" ,Adithya TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+#EXTINF:-1 group-title="" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194346" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194346/960x540_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" ,Kushi TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e16421cf7c374c57a8f7e91049f58cd9:b7e01aba2c307b1f05057e91a9d150d2
+https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd
+
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/89802/etv-plus-320x240.jpg", ETV Plus
+https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg", ETV Cinema
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47283/etv-life-320x240.jpg", ETV Life
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/28270/etv-telugu-320x240.jpg", ETV Telugu
+https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/37856/etv-abhiruchi-320x240.jpg", ETV Abhiruchi
+https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/18492/etv-telangana-320x240.jpg", ETV Telangana
+https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47688/etv-andhra-pradesh-320x240.jpg", ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+
+
+#EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="Telugu Local",Bheem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
+https://login.bheem.tv/bpk-tv/22094/output/index.mpd?
+#EXTINF:-1 tvg-id="22301" tvg-logo="" group-title="Telugu Local",BCN Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5190427b2c595770a32994d3412ec6e8:caebbaa588560b8713aaf74b6bd43283
+https://login.bheem.tv/bpk-tv/22301/output/index.mpd
+#EXTINF:-1 tvg-id="22302" tvg-logo="" group-title="Telugu Local",BCN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7cf53782c245274ab8535e542ef112c:a00af3fe7ada67409a0522b04eabc276
+https://login.bheem.tv/bpk-tv/22302/output/index.mpd
+#EXTINF:-1 tvg-id="22327" tvg-logo="" group-title="Telugu Local",BCN News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c51805e0247f57d98b93e88ca3b71ee9:d417b5e60aad01e17fd946f5b4a60584
+https://login.bheem.tv/bpk-tv/22327/output/index.mpd
+#EXTINF:-1 tvg-id="22362" tvg-logo="" group-title="Telugu Local",Telemax Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
+https://login.bheem.tv/bpk-tv/22362/output/index.mpd
 
