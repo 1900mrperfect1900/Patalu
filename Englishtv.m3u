@@ -45,7 +45,29 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", EPIC MUSIC
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", FTV MUSIC Uzbekistan
+https://stream8.cinerama.uz/1018/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", Fusion TV France
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", One Music
+https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", Xlevel Media 
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", XITE Celebraters
+https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", XITE Spain
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", XITE UK
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", XITE LATINO
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", ZWEI MUSIC TV
+https://zweiapp.b-cdn.net/1080p/index.m3u8
 
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="", TV9
-https://mumbai-edge.smartplaytv.in/Ds9music/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
