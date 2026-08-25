@@ -52,6 +52,8 @@ https://rtmp.streamwell.in/hls/7gtv.m3u8
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",SLN NEWS
 https://vvsolutions-server11.in/slnnews_2/video.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",E69 News
+https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Akshara Banjara
 https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Akshara News
@@ -70,6 +72,10 @@ http://cache.internode.co.in:6081/victoriaMedia/index.m3u8
 https://server.streamwell.in/hls/chittoortvhd.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SATYA INFOCUS
 https://vstechs.in/PTP/ssp/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", S90 TV
+https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
+#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", TV6 TELUGU
+https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 #EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Movies
