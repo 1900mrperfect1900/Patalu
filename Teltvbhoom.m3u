@@ -63,6 +63,8 @@ https://vvsolutions.in/aksharanews/aksharanews.m3u8
 https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",ASN NEWS
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",LOCAL TV
+https://amigofx.com:1936/localnews/localnews/index.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="", VCN TV
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="", Tirumala HD
