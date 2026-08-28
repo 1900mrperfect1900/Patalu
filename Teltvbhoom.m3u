@@ -1,276 +1,277 @@
 #EXTM3U
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SANATHAN TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SANATHAN TV
 https://mumbai-edge.smartplaytv.in/SanathanTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK BHAKTHI
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", RK BHAKTHI
 https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", DS 9 Music
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", DS 9 Music
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GEETV Music
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",GEETV Music
 https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Music
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", BCT Music
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Music
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSLC Music
 https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SAMA MUSIC
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SAMA MUSIC
 http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VV MUSIC
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", VV MUSIC
 https://allchannels.in/live/vvmusic_100/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", TGN TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", TGN TV
 https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VV MOVIES
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", VV MOVIES
 https://allchannels.in/live/vvmovies_100/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", NEW TV TELUGU
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", NEW TV TELUGU
 http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Vihari TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Vihari TV
 http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Satya TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Satya TV
 https://vstechs.in/PTP/satya/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Mana Pitapuram
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Mana Pitapuram
 https://vstechs.in/PTP/manaptp/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", JK CITY
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", JK CITY
 https://amigofx.com:1936/jkccity/jkccity/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", CITI CHANNEL
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", CITI CHANNEL
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
-
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RV DIGITAL TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", JOGULAMBA TV
+https://mumbai-edge.smartplaytv.in/JogulambaTV/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", RV DIGITAL TV
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSTV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSTV
 https://live.kpsnetwork.in/sstv/sstv/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",KPS Telugu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",KPS Telugu
 https://live.kpsnetwork.in/kps/kps/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",VEDA SRI
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",VEDA SRI
 https://vstechs.in/PTP/vedha/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",ZOY HD
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",ZOY HD
 https://rtmp.streamwell.in/hls/zoyhd.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK GOLD
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", RK GOLD
 https://mumbai-edge.smartplaytv.in/RkGold/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", RK TV
 https://vvsolutions.in/rktv_347/rktv_347.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",7GTV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",7GTV
 https://rtmp.streamwell.in/hls/7gtv.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",RV FLOCK TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",RV FLOCK TV
 https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",SLN NEWS
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",SLN NEWS
 https://vvsolutions-server11.in/slnnews_2/video.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",E69 News
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",E69 News
 https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Akshara Banjara
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",Akshara Banjara
 https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Akshara News
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",Akshara News
 https://vvsolutions.in/aksharanews/aksharanews.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",JEE TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",JEE TV
 https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",ASN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",ASN NEWS
 https://mumbai-edge.smartplaytv.in/ASNNews/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VCN TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", VCN TV
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Tirumala HD
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Tirumala HD
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", VICTORY MEDIA
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", VICTORY MEDIA
 http://cache.internode.co.in:6081/victoriaMedia/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", CHITTOOR TV HD
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", CHITTOOR TV HD
 https://server.streamwell.in/hls/chittoortvhd.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SATYA INFOCUS
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SATYA INFOCUS
 https://vstechs.in/PTP/ssp/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", S90 TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", S90 TV
 https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", TV6 TELUGU
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", TV6 TELUGU
 https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Classic
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BCT Movies
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", BCT Movies
 https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Shreyas TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Shreyas TV
 https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Key News
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",Key News
 https://mumbai-edge.smartplaytv.in/KeyNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",AVN TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",AVN TV
 https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",G K MEDIA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",G K MEDIA TV
 https://mumbai-edge.smartplaytv.in/GKMedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MEDIA 10 NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",MEDIA 10 NEWS
 https://mumbai-edge.smartplaytv.in/Media10News/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SVN NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SVN NEWS
 https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",INB
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",INB
 https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",JAI TELANGANA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",JAI TELANGANA
 https://mumbai-edge.smartplaytv.in/JaiTelangana/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SATHYA NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SATHYA NEWS
 https://mumbai-edge.smartplaytv.in/SathyaNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Anjali TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",Anjali TV
 https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",TV3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",TV3
 https://mumbai-edge.smartplaytv.in/TV3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CITY CABLE TANDUR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",CITY CABLE TANDUR
 https://vvsolutions.in/cabletandur/cabletandur.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",S10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",S10
 https://mumbai-edge.smartplaytv.in/s10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",TS9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",TS9
 https://mumbai-edge.smartplaytv.in/TS9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",AV NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",AV NEWS
 https://mumbai-edge.smartplaytv.in/AVNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",Prajavani
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",Prajavani
 https://mumbai-edge.smartplaytv.in/Prajavani/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CK NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",CK NEWS
 https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",KERATAM NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",KERATAM NEWS
 https://mumbai-edge.smartplaytv.in/Keratamnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",VRM MEDIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",VRM MEDIA
 https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SREE NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SREE NEWS
 https://vvsolutions.in/sreenews/sreenews.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",YSR TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",YSR TV
 https://vvsolutions.in/ysrtv/ysrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",I VIEW
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",I VIEW
 https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",N24 NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",N24 NEWS
 https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",AN TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",AN TV
 https://mars.streambridge.link:8052/telugu/antv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",TV 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",TV 6
 https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",PS NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",PS NEWS
 https://mumbai-edge.smartplaytv.in/PSNEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",D4 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",D4 TV
 https://server.streamwell.in/hls/d4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SVC TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SVC TV
 https://mumbai-edge.smartplaytv.in/SVC/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MEE NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",MEE NEWS
 https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SDTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SDTV
 https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Bathukamma TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Bathukamma TV
 https://mumbai-edge.smartplaytv.in/BathukammaTV/video.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Janapadalu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSLC Janapadalu
 https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Banjara Dolu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSLC Banjara Dolu
 https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Multiplex
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSLC Multiplex
 https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Cinemalu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSLC Cinemalu
 https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", SSLC Gold
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SSLC Gold
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", ACN TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", ACN TV
 https://mumbai-edge.smartplaytv.in/acn/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Rapid Media
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Rapid Media
 https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", MY TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", MY TV
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", City News Telugu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", City News Telugu
 https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", DS 9 Kathalu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", DS 9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", BJ TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", BJ TV
 https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RK Bhathi
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", RK Bhathi
 https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", RKTV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", RKTV
 https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Vinodam HD
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Vinodam HD
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Deccan Today Telugu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Deccan Today Telugu
 https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Bahujana News TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",Bahujana News TV
 https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Food & Health
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Food & Health
 https://mumbai-edge.smartplaytv.in/FAndH/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Darshanam Bakthi
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",Darshanam Bakthi
 https://mumbai-edge.smartplaytv.in/darshanambhakthi/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",N24 News Telugu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",N24 News Telugu
 https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="", Studio18 News Telugu
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", Studio18 News Telugu
 https://mumbai-edge.smartplaytv.in/Studio18/index.m3u8
-#EXTINF:-1 group-title="BHOOM Telugu" tvg-logo="",Journalist Today TV
+#EXTINF:-1 group-title="TELUGU" tvg-logo="",Journalist Today TV
 https://mumbai-edge.smartplaytv.in/JournalistToday/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GS GRAMEENA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",GS GRAMEENA
 https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SRK CITY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SRK CITY
 https://server.streamwell.in/hls/srkcity.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MULTIPLEX 70MM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",MULTIPLEX 70MM
 http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",4 SIDES TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",4 SIDES TV
 https://mumbai-edge.smartplaytv.in/4sidestv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SITI 24X7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SITI 24X7
 https://www.schannels.in/SITI24X7_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SSTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SSTV
 http://streamcp.logosys.cloud:1935/snewsnpt/snewsnpt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CHANAKYA NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",CHANAKYA NEWS
 https://mumbai-edge.smartplaytv.in/ChanakyaNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MEDIA TODAY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",MEDIA TODAY
 https://mumbai-edge.smartplaytv.in/MediaToday/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",JAI-BHIM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",JAI-BHIM
 https://mumbai-edge.smartplaytv.in/JaiBhim/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",DEVI CABLE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",DEVI CABLE
 https://mumbai-edge.smartplaytv.in/DeviCable/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",PUBLIC FOLK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",PUBLIC FOLK
 https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",PUBLIC TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",PUBLIC TV
 https://publictvtelugu.co.in/publictv_1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CITY TELANGANA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",CITY TELANGANA
 http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",JEE TELUGU
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",JEE TELUGU
 https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MTV TELUGU
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",MTV TELUGU
 http://cache.internode.co.in:6081/MTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",PRIME ONE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",PRIME ONE
 http://live.streamplay.in:1935/prime1/prime1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",PCN HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",PCN HD
 http://cache.internode.co.in:6081/PCNHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SUPER TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SUPER TV
 https://venus.streambridge.link:8047/telugu/supertv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",VIZAG LOCAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",VIZAG LOCAL
 https://edmediahub.in/vizaglocaltv/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",VICTORY MEDIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",VICTORY MEDIA
 http://cache.internode.co.in:6081/victoriaMedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",SEVEN HILLS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",SEVEN HILLS
 https://server.streamwell.in/hls/7hills.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",TELUGU TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",TELUGU TV
 http://live.streamplay.in:1935/telugutv/telugutv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",MY TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",MY TV
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",ZILLA VANI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",ZILLA VANI
 https://streaming.livebox.co.in/vedhikahls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",KRS TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",KRS TV
 http://cache.internode.co.in:6081/ds9e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GTN TELUGU
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",GTN TELUGU
 https://amigofx.com:1936/srkent/srkent/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",108 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",108 TV
 http://live.streamplay.in:1935/108tv/108tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",BAVYA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",BAVYA TV
 http://encode.streamplay.in:1935/bhavyatv/bhavyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GTPL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",GTPL
 http://cloud.streamplay.in:1935/gtpl/gtpl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",GTPL KARIMNAGAR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",GTPL KARIMNAGAR
 http://cloud.streamplay.in:1935/samacomedy/samacomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",K6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",K6
 http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",CITY NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",CITY NEWS
 http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",RAPID MEDIA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",RAPID MEDIA
 http://cache.internode.co.in:6081/RapidMedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BHOOM Telugu",J7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TELUGU",J7
 https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 
 
-#EXTINF:-1 tvg-id="22301" tvg-logo="" group-title="BHOOM Telugu",BCN Entertainment
+#EXTINF:-1 tvg-id="22301" tvg-logo="" group-title="TELUGU",BCN Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5190427b2c595770a32994d3412ec6e8:caebbaa588560b8713aaf74b6bd43283
 https://login.bheem.tv/bpk-tv/22301/output/index.mpd
-#EXTINF:-1 tvg-id="22302" tvg-logo="" group-title="BHOOM Telugu",BCN TV
+#EXTINF:-1 tvg-id="22302" tvg-logo="" group-title="TELUGU",BCN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7cf53782c245274ab8535e542ef112c:a00af3fe7ada67409a0522b04eabc276
 https://login.bheem.tv/bpk-tv/22302/output/index.mpd
-#EXTINF:-1 tvg-id="22327" tvg-logo="" group-title="BHOOM Telugu",BCN News
+#EXTINF:-1 tvg-id="22327" tvg-logo="" group-title="TELUGU",BCN News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c51805e0247f57d98b93e88ca3b71ee9:d417b5e60aad01e17fd946f5b4a60584
 https://login.bheem.tv/bpk-tv/22327/output/index.mpd
-#EXTINF:-1 tvg-id="22362" tvg-logo="" group-title="BHOOM Telugu",Telemax Telugu
+#EXTINF:-1 tvg-id="22362" tvg-logo="" group-title="TELUGU",Telemax Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
 https://login.bheem.tv/bpk-tv/22362/output/index.mpd
-#EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="BHOOM Telugu",Bheem TV
+#EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="TELUGU",Bheem TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
 https://login.bheem.tv/bpk-tv/22094/output/index.mpd?
