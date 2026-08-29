@@ -129,6 +129,7 @@ K6,http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
 CITY NEWS,http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
 RAPID MEDIA,http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
+MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
 KANADA,#genre#
