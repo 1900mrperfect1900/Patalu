@@ -35,6 +35,8 @@ https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/JogulambaTV/index.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="", RV DIGITAL TV
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", SS NEWS 
+https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="", SSTV
 https://live.kpsnetwork.in/sstv/sstv/index.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="", NETI SAKSHYAM
