@@ -37,6 +37,8 @@ https://mumbai-edge.smartplaytv.in/JogulambaTV/index.m3u8
 https://rtmp.streamwell.in/rvdigitaltv.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="", SSTV
 https://live.kpsnetwork.in/sstv/sstv/index.m3u8
+#EXTINF:-1 group-title="TELUGU" tvg-logo="", NETI SAKSHYAM
+http://cloud.sundaylive.co.in/netisakshyam/netisakshyam/index.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="",KPS Telugu
 https://live.kpsnetwork.in/kps/kps/index.m3u8
 #EXTINF:-1 group-title="TELUGU" tvg-logo="",VEDA SRI
