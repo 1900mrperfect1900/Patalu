@@ -1,5 +1,7 @@
-KANADA,#genre#
+HINDI,#genre#
 
+
+KANADA,#genre#
 SINDHURA KANADA TV,https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
 NANDHI KANADA TV,https://vvsolutions-server11.in/nanditv_10/video.m3u8
 JK KANADA TV,http://account18.livebox.co.in/jktvkannadahls/live.m3u8
@@ -12,7 +14,6 @@ REPUBLIC TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 CTV,https://vvsolutions.in/ctvnews/ctvnews.m3u8
 
 MALAYALAM,#genre#
-
 GTPL KERLA,https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
 ANADN HD,https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
 KCL,https://kcltv.livebox.co.in/kclhls/live.m3u8
@@ -33,23 +34,17 @@ POWRAN MEDIA,https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
 MEDIA VISION,https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
 
 TAMIL,#genre#
-
-
-
-
-ORIYA,#genre#
-
-
-
-
-HINDI,#genre#
-
-
+PRIME MUSIC TV,https://live.primestream.in/prime/music/index.m3u8
+KC MUSIC TV,https://rtmp.bmlive.net/bms/kcmusic/stream.m3u8
+SR MUSIC TV,https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8
+RETRO MUSIC TV,https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
+JCV MUSIC TV,https://play.applelive.in/jcvtv/jcvmusix.m3u8
 
 BANGALA,#genre#
+SGC MUSIC,https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
+BHI CHANNEL,https://server.thelegitpro.in/bhichannel/bhichannel/index.m3u8
 
-
-
+ORIYA,#genre#
 
 
 BHOJPURI,#genre#
