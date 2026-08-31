@@ -132,3 +132,16 @@ J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
+ETV NETWORK,#genre#
+
+
+
+NEWS NETWORK,#genre#
+
+
+
+
+
+
+
+
