@@ -11,6 +11,27 @@ RCN TV,https://rcntvlive.com/Rcnchannelhls/live.m3u8
 REPUBLIC TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 CTV,https://vvsolutions.in/ctvnews/ctvnews.m3u8
 
+MALAYALAM,#genre#
+
+GTPL KERLA,https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
+ANADN HD,https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
+KCL,https://kcltv.livebox.co.in/kclhls/live.m3u8
+NEW STAR,https://live.skystream.in/live/newsstar2924/index.m3u8?hls_ctx=ix6cvu58
+SOUTH VISION,https://live.skystream.in/live/southvsnklm/index.m3u8
+UTSAV TV,https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/chunks.m3u8
+CITI VISION,https://live.skystream.in/live/citykannurcity/tracks-v1a1/mono.m3u8
+GTV,https://play.applelive.in/gtv/gtv.m3u8
+GTV MAX,https://play.applelive.in/gtvmax/gtvmax.m3u8
+VCV,https://5a1178b42cc03.streamlock.net/8210/8210/index.m3u8
+C MALAYALAM,https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+UTV,https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+KV TV,https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+N VISION,https://ipcloud.live/nvision/nvisionhd/index.m3u8
+METRO LIVE,https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+KOICKAL TV,https://play.applelive.in/koickalnews/koickalnews.m3u8
+POWRAN MEDIA,https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
+MEDIA VISION,https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
+
 TAMIL,#genre#
 
 
