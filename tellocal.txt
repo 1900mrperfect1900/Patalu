@@ -132,14 +132,3 @@ J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
-KANADA,#genre#
-SINDHURA KANADA TV,https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
-NANDHI KANADA TV,https://vvsolutions-server11.in/nanditv_10/video.m3u8
-JK KANADA TV,http://account18.livebox.co.in/jktvkannadahls/live.m3u8
-REPUBLIC KANADA TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
-JK TV,http://account18.livebox.co.in/jktvkannadahls/live.m3u8
-ENEWS,http://account10.livebox.co.in/enewstvnoonechannelomsairamhls/live.m3u8
-CN MUSIC,https://rcntvlive.com/Rcnmusichls/live.m3u8
-RCN TV,https://rcntvlive.com/Rcnchannelhls/live.m3u8
-REPUBLIC TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
-CTV,https://vvsolutions.in/ctvnews/ctvnews.m3u8
