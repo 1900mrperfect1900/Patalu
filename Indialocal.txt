@@ -12,17 +12,14 @@ NEWS X WORLD,https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 R TV,https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
 RT INDIA,https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 WION,https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
-
-
-
+TRT WORLD,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+FRANCE 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+AFRICA 24,https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
 
 DOCBAY,https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 HISTORY 18,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 INWILD,https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
-
-
-
-
 
 
 HINDI,#genre#
