@@ -13,7 +13,6 @@ https://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-
-
-
+#EXTINF:-1 tvg-id="",Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
