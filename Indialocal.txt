@@ -20,15 +20,12 @@ ALZEERA,https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 EURO NEWS,https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-
 CNA ORIGINALS, https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 DOCBAY,https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 HISTORY 18,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 INWILD,https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 CHINA TRAVEL,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 DISCOVERY CHINA,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
-
-
 
 HINDI,#genre#
 EPIC MUSIC,https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
@@ -80,17 +77,21 @@ JCV MUSIC TV,https://play.applelive.in/jcvtv/jcvmusix.m3u8
 SANA PLUS,https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 SANA,https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
 
-
-
 BANGALA,#genre#
 SGC MUSIC,https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
 BHI CHANNEL,https://server.thelegitpro.in/bhichannel/bhichannel/index.m3u8
 ZBMUSIC,https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 ORIYA,#genre#
+RCN,http://ace.aplombtv.in:8080/hls/rcnudia/index.m3u8
+RANG RANGOLI,https://live.ekamraott.com/rr/rr/video.m3u8
+MUSIQ,https://live.ekamraott.com/musiq/musiq/index.m3u8
+BAISCOPE,https://live.ekamraott.com/baiscope/baiscope/index.m3u8
+STV ODIA,https://amigofx.com:1936/stv/stv/playlist.m3u8
+Ekamran Manoranja,https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
+Ekaman,https://live.ekamraott.com/nilachakra/nilachakra/index.m3u8
 
 
-BHOJPURI,#genre#
 
 
 
