@@ -7,6 +7,8 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",ACTION TV
 https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",DIGI TV
+https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Super Fine Telugu
 https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",FILM BOX LOVE & CRIME
