@@ -32,6 +32,12 @@ DISCOVERY CHINA,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi
 BBC EARTH,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
 
+SPORTS,#genre#
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+BEIN SPORTS,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
+
+
+
 HINDI,#genre#
 EPIC MUSIC,https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 9XM,https://wiselp.wiseplayout.com/9XM/master.m3u8
@@ -95,11 +101,6 @@ BAISCOPE,https://live.ekamraott.com/baiscope/baiscope/index.m3u8
 STV ODIA,https://amigofx.com:1936/stv/stv/playlist.m3u8
 Ekamran Manoranja,https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
 Ekaman,https://live.ekamraott.com/nilachakra/nilachakra/index.m3u8
-
-SPORTS,#genre#
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-BEIN SPORTS,https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
-
 
 
 
