@@ -5,7 +5,10 @@ NEWSX,https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 NDTV WORLD,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 NDTV PROFIT,https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 NEWS 9,https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+TIMES NOW,https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
+MIRROR NOW,https://d179muqh6u5263.cloudfront.net/master.m3u8
 RT INDIA,https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+ETNOW,https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 TRT WORLD,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
