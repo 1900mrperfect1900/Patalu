@@ -7,6 +7,7 @@ BCT Music,https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 SSLC Music,https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 SAMA MUSIC,http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 VV MUSIC,https://allchannels.in/live/vvmusic_100/index.m3u8
+TELUGU CINEMA,https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
 2 TELUGU,https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8
 TGN TV,https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
 VV MOVIES,https://allchannels.in/live/vvmovies_100/index.m3u8
