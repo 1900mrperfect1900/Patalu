@@ -2,14 +2,9 @@ NEWS ENGLISH,#genre#
 CNBC18,https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 CNBC 18 PRIME,https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 NEWSX,https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
-CVR ENGLISH,https://cdn-2.pishow.tv/live/425/master.m3u8
-TV18,https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
-MIRRORNOW,https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 NDTV WORLD,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 NDTV PROFIT,https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 NEWS 9,https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
-NEWS X WORLD,https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
-R TV,https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
 RT INDIA,https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 TRT WORLD,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
