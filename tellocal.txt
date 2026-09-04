@@ -148,8 +148,7 @@ MAA MOVIES,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chu
 
 
 NEWS NETWORK,#genre#
-
-
+TV9 TELUGU,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
 
 
