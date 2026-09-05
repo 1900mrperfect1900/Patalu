@@ -20,6 +20,7 @@ CITI CHANNEL,https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 JOGULAMBA TV,https://mumbai-edge.smartplaytv.in/JogulambaTV/index.m3u8
 RV DIGITAL TV,https://rtmp.streamwell.in/rvdigitaltv.m3u8
 SS NEWS,https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
+GTV,http://cache.internode.co.in:6081/GeeTV/index.m3u8
 SSTV,https://live.kpsnetwork.in/sstv/sstv/index.m3u8
 NETI SAKSHYAM,http://cloud.sundaylive.co.in/netisakshyam/netisakshyam/index.m3u8
 KPS Telugu,https://live.kpsnetwork.in/kps/kps/index.m3u8
