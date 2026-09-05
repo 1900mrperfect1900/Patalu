@@ -26,6 +26,7 @@ NETI SAKSHYAM,http://cloud.sundaylive.co.in/netisakshyam/netisakshyam/index.m3u8
 KPS Telugu,https://live.kpsnetwork.in/kps/kps/index.m3u8
 VEDA SRI,https://vstechs.in/PTP/vedha/index.m3u8
 ZOY HD,https://rtmp.streamwell.in/hls/zoyhd.m3u8
+SV6,http://cache.internode.co.in:6081/SV6/index.m3u8
 RK GOLD,https://mumbai-edge.smartplaytv.in/RkGold/index.m3u8
 RK TV,https://vvsolutions.in/rktv_347/rktv_347.m3u8
 7GTV,https://rtmp.streamwell.in/hls/7gtv.m3u8
