@@ -24,6 +24,7 @@ GTV,http://cache.internode.co.in:6081/GeeTV/index.m3u8
 SSTV,https://live.kpsnetwork.in/sstv/sstv/index.m3u8
 NETI SAKSHYAM,http://cloud.sundaylive.co.in/netisakshyam/netisakshyam/index.m3u8
 KPS Telugu,https://live.kpsnetwork.in/kps/kps/index.m3u8
+KNR,https://live.mythrimediaindia.com/knrchannel/knrchannel/index.m3u8
 VEDA SRI,https://vstechs.in/PTP/vedha/index.m3u8
 ZOY HD,https://rtmp.streamwell.in/hls/zoyhd.m3u8
 SV6,http://cache.internode.co.in:6081/SV6/index.m3u8
@@ -135,6 +136,7 @@ CITY NEWS,http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
 RAPID MEDIA,http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 CCC,https://colorsportscreen.com/freetv/stream.m3u8?id=3f8c472e3b36
+TR9,http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
 MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
