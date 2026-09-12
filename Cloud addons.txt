@@ -1,141 +1,123 @@
 
-CloudStream Providers Repository	
+1.CloudStream Providers Repository	
 cloudstreamrepo://raw.githubusercontent.com/recloudstream/extensions/master/repo.json	
 cspr    0094
 
-Mega	
+2.Mega	
 cloudstreamrepo://raw.githubusercontent.com/self-similarity/MegaRepo/builds/repo.json
 megarepo 3737
 
-
-Phisher Repo	
+3.Phisher Repo	
 cloudstreamrepo://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json
 phisherrepo  864
 
-
-CSX / Megix Repo	
+4.CSX / Megix Repo	
 cloudstreamrepo://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json
 csx  3670
 
-
-3rabi عربي	
+5.3rabi عربي	
 cloudstreamrepo://raw.githubusercontent.com/Abodabodd/re-3arabi/refs/heads/main/repo
 arb 343
 
-Turkish Providers Repository	
+6.Turkish Providers Repository	
 cloudstreamrepo://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json
 KekikAkademi
 
-IndoStream Repo	
+7.IndoStream Repo	
 cloudstreamrepo://raw.githubusercontent.com/TeKuma25/IndoStream/builds/repo.json
 indos  2149
 
-
-doGior’s Had Enough	
+8.doGior’s Had Enough	
 cloudstreamrepo://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json
 gior  1740
 
-
-CakeTwix	
+9.CakeTwix	
 https://codeberg.org/CakesTwix/cloudstream-extensions-uk/raw/branch/master/repo.json
 cakes
 
-
-Italian Providers Repository	
+10.Italian Providers Repository	
 cloudstreamrepo://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/repo.json
 ipr
 
-
-Redowan’s BDIX	
+11.Redowan’s BDIX	
 cloudstreamrepo://raw.githubusercontent.com/redowan99/Redowan-CloudStream/master/repo.json
 redowan
 
-
-Reflex Repo	
+12.Reflex Repo	
 cloudstreamrepo://raw.githubusercontent.com/Reflex755/ReflexRepo/refs/heads/builds/repo.json
 reflex  13370401
 
-Turkish Providers Repo	
+13.Turkish Providers Repo	
 cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/repo.json
 kraptorcs
 
-
-Luna712	
+14.Luna712	
 cloudstreamrepo://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/28885d17ceb7f24782b732b6056085c14c1fd027/repo.json
 luna712
 
-CuxPlug	
+15.CuxPlug	
 cloudstreamrepo://raw.githubusercontent.com/ycngmn/CuxPlug/refs/heads/main/repo.json	
 CuxPlug
 
-
-Saimuel Repo	
+16.Saimuel Repo	
 cloudstreamrepo://raw.githubusercontent.com/saimuelbr/saimuelrepo/refs/heads/main/builds/repo.json	
 saim
 
-sarapcanagii	
+17.sarapcanagii	
 cloudstreamrepo://raw.githubusercontent.com/sarapcanagii/Pitipitii/master/repo.json	
 sarapcanagii
 
-lawlietrepo	
+18.lawlietrepo	
 cloudstreamrepo://raw.githubusercontent.com/lawlietbr/lietrepo/refs/heads/main/builds/repo.json	
 lawlietrepo
 
-
-King	
+19.King	
 cloudstreamrepo://pastebin.com/raw/Cd2g2tfz	
 kingl
 
-Arabico	
+20.Arabico	
 cloudstreamrepo://raw.githubusercontent.com/aymanbest/Arabico/main/repo.json
 
-Aniyomi Compat	
+21.Aniyomi Compat	
 cloudstreamrepo://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json
 
-DieGon Repository	
+22.DieGon Repository	
 cloudstreamrepo://pastebin.com/raw/qndZtL6D
 diegon7
 
-
-cs-karma	
+23.cs-karma	
 cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-Karma/refs/heads/master/repo.json	
 cskarma
 
-
-Netmirror Repo	
+24.Netmirror Repo	
 cloudstreamrepo://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netflix.json	
 Netmirror
 
-
-zzikozz
+25.zzikozz
 https://raw.githubusercontent.com/zzikozz/frenchCS/refs/heads/main/repo.json	
 zzikozz
 
-
-GramFlix	
+26.GramFlix	
 https://raw.githubusercontent.com/tOntOnbOuLii/GramFlix/main/repo.json	
 gramflix
 
-
-Cinephile	
+27.Cinephile	
 cloudstreamrepo://raw.githubusercontent.com/rockhero1234/cinephile/refs/heads/builds/repo.json
 
-Cartoony Repo	
+28.Cartoony Repo	
 cloudstreamrepo://raw.githubusercontent.com/med1245/cartoonyrepo/builds/repo.json
 
-Storm-ext Fork	
+29.Storm-ext Fork	
 cloudstreamrepo://raw.githubusercontent.com/redblacker8/storm-ext/refs/heads/builds/repo.json
 
-
-Kraptor’un CloudStream Reposu	
+30.Kraptor’un CloudStream Reposu	
 cloudstreamrepo://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/repo.json
 
-
-CNC Verse Repository	
+31.CNC Verse Repository	
 cloudstreamrepo://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json
 cncv
 
-CloudStream Vietnamese	
+32.CloudStream Vietnamese	
 cloudstreamrepo://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/repo.json	viet
 
 
