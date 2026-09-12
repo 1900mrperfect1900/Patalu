@@ -15,6 +15,7 @@ NEW TV TELUGU,http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu
 Vihari TV,http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/index.m3u8
 Satya TV,https://vstechs.in/PTP/satya/index.m3u8
 Mana Pitapuram,https://vstechs.in/PTP/manaptp/index.m3u8
+NSR, https://mumbai-edge.smartplaytv.in/NSRNEWS/index.m3u8
 JK CITY,https://amigofx.com:1936/jkccity/jkccity/index.m3u8
 CITI CHANNEL,https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 JOGULAMBA TV,https://mumbai-edge.smartplaytv.in/JogulambaTV/index.m3u8
