@@ -69,7 +69,7 @@ REPUBLIC TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 CTV,https://vvsolutions.in/ctvnews/ctvnews.m3u8
 
 MALAYALAM,#genre#
-GTPL KERLA,https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
+GTPL KERLA,https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/index.m3u8
 ANADN HD,https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
 KCL,https://kcltv.livebox.co.in/kclhls/live.m3u8
 NEW STAR,https://live.skystream.in/live/newsstar2924/index.m3u8?hls_ctx=ix6cvu58
@@ -87,6 +87,9 @@ METRO LIVE,https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 KOICKAL TV,https://play.applelive.in/koickalnews/koickalnews.m3u8
 POWRAN MEDIA,https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
 MEDIA VISION,https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
+Cranganore TV, https://live.applelive.in/cranganorechannel/cranganorechannel/tracks-v1a1/mono.m3u8
+
+
 
 TAMIL,#genre#
 PRIME MUSIC TV,https://live.primestream.in/prime/music/index.m3u8
