@@ -32,3 +32,9 @@ HOME PLUS, https://homeplushls.wns.live/hls/stream.m3u8
 ITAGE TV, https://homeplushls.wns.live/hls/stream.m3u8
 KINO MIX, https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 NEW KMOVIES, https://dm5q5evajzvnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-svz5xbnmxjdsz/587f2f14-af34-498e-a590-eafae910bc49/1.m3u8
+PERSIAN TV, https://cinehls.persiana.live/hls/stream.m3u8
+PERSIAN PLUS, https://euhls.persiana.live/hls/stream.m3u8
+TV 21, https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+
+
+
