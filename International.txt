@@ -4,7 +4,7 @@ MNB WORLD,https://live.mnb.mn/hls/mnb_world.stream.m3u8
 MNB, https://live.mnb.mn/hls/mnb.stream.m3u8
 MNB2, https://live.mnb.mn/hls/mn2.stream.m3u8
 
-
+MOVIES,#genre#
 BIGSCREEN TV, https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
 BOREAL TV, https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 CANEL DIOS, https://canal.mediaserver.com.co/live/cinedios.m3u8?hls_ctx=005piu54
@@ -31,3 +31,4 @@ FILM UA DRAMA, https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 HOME PLUS, https://homeplushls.wns.live/hls/stream.m3u8
 ITAGE TV, https://homeplushls.wns.live/hls/stream.m3u8
 KINO MIX, https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+NEW KMOVIES, https://dm5q5evajzvnz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-svz5xbnmxjdsz/587f2f14-af34-498e-a590-eafae910bc49/1.m3u8
