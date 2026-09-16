@@ -4,7 +4,7 @@ MNB WORLD,https://live.mnb.mn/hls/mnb_world.stream.m3u8
 MNB, https://live.mnb.mn/hls/mnb.stream.m3u8
 MNB2, https://live.mnb.mn/hls/mn2.stream.m3u8
 
-MOVIES,#genre#
+INT MOVIES,#genre#
 BIGSCREEN TV, https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
 BOREAL TV, https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 CANEL DIOS, https://canal.mediaserver.com.co/live/cinedios.m3u8?hls_ctx=005piu54
