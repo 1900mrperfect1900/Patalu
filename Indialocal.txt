@@ -46,6 +46,7 @@ BBC EARTH,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcde
 SPORTS,#genre#
 TENNIS CHANNEL,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 BEIN SPORTS,https://bein-xtra-bein.amagi.tv/playlist.m3u8
+MNB SPORTS, https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 HINDI,#genre#
 EPIC MUSIC,https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
