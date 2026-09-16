@@ -1,1 +1,33 @@
 
+MANGLIA,#genre#
+MNB WORLD,https://live.mnb.mn/hls/mnb_world.stream.m3u8
+MNB, https://live.mnb.mn/hls/mnb.stream.m3u8
+MNB2, https://live.mnb.mn/hls/mn2.stream.m3u8
+
+
+BIGSCREEN TV, https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
+BOREAL TV, https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+CANEL DIOS, https://canal.mediaserver.com.co/live/cinedios.m3u8?hls_ctx=005piu54
+CINI GRIKI, https://d2mr4fu91mjx9m.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/d22f9a62-49bc-4c99-940e-43c62514ce80/2.m3u8
+CINI NANAR, https://zylo-cinenanar-rakuten.amagi.tv/playlist720p.m3u8
+CINIMA, https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+COSMOS, https://canaletaplus.com:3922/live/cosmoslive.m3u8
+DORAMA, https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+EVROKINO, https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+FILM BOX, https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+FILMBOX LOVE, https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+FILM BOX HITS, https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+SILK WAY CINIMA, https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-a1/mono.ts.m3u8
+SINE PLUS, https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
+STAR CINIMA, https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+STAR FAMILY, https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+START WORLD, https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+XTREAM ACTION, https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+RUSSKIY ILLUSION, https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+DOME KINO, https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+EBS CINEMA, https://rpn.bozztv.com/ebstv/ebscinema/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1829482950
+FILM UA LIVE, https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+FILM UA DRAMA, https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+HOME PLUS, https://homeplushls.wns.live/hls/stream.m3u8
+ITAGE TV, https://homeplushls.wns.live/hls/stream.m3u8
+KINO MIX, https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
