@@ -60,6 +60,7 @@ G K MEDIA TV,https://mumbai-edge.smartplaytv.in/GKMedia/index.m3u8
 MEDIA 10 NEWS,https://mumbai-edge.smartplaytv.in/Media10News/index.m3u8
 SVN NEWS,https://mumbai-edge.smartplaytv.in/SVNEWS/index.m3u8
 INB,https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
+INB, https://ace.aplombtv.in/hls/INB/index.m3u8
 JAI TELANGANA,https://mumbai-edge.smartplaytv.in/JaiTelangana/index.m3u8
 SATHYA NEWS,https://mumbai-edge.smartplaytv.in/SathyaNews/index.m3u8
 Anjali TV,https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
