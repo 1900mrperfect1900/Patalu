@@ -142,6 +142,7 @@ RAPID MEDIA,http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 CCC,https://colorsportscreen.com/freetv/stream.m3u8?id=3f8c472e3b36
 TR9,http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+AMMA TV, http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
