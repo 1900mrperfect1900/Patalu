@@ -50,6 +50,7 @@ CHITTOOR TV HD,https://server.streamwell.in/hls/chittoortvhd.m3u8
 SATYA INFOCUS,https://vstechs.in/PTP/ssp/index.m3u8
 S90 TV,https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
 TV6 TELUGU,https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
+DBR, http://telugusolutions.in:8088/dbr12/dbr12.m3u8
 BCT Classic,https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 BCT Movies,https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
 Shreyas TV,https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
