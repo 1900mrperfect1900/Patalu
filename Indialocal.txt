@@ -19,6 +19,15 @@ ALZEERA,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 EURO NEWS,https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
 EURO NEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+NHK JAPAN, https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+PRESS TV, https://live.presstv.ir/hls/presstv.m3u8
+TOI, https://live.sli.ke/live/npnhm84gz9/fhd/stream.m3u8
+CNN HEALLINES, https://mediapackage-ptcn-source.fullscreen.nz/index_4.m3u8
+
+FIRST POST, https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/Firstpost_NW18_MOB-audio_98836_eng=98800-video=2293600.m3u8
+Republic TV, https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index_6.m3u8
+BUSINESS TODAY, https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv3/chunklist.m3u8
 BRICS,https://chibrics.mediacdn.ru/cdn/brics/english/index.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -47,6 +56,9 @@ SPORTS,#genre#
 TENNIS CHANNEL,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 BEIN SPORTS,https://bein-xtra-bein.amagi.tv/playlist.m3u8
 MNB SPORTS, https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+CRICKET GOLD, https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418/variant/22100031.m3u8
+CRICKET GOLD, https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+CRICKET GOLD, https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
 HINDI,#genre#
 EPIC MUSIC,https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
