@@ -67,7 +67,7 @@ E24,https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
 MUSIC INDIA,https://cdn-2.pishow.tv/live/226/master.m3u8
 ZOOM,https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 YRF,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
+ZINGABAD, https://stream.ottlive.co.in/zingabad/index.m3u8
 
 KANADA,#genre#
 SINDHURA KANADA TV,https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
