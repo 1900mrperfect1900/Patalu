@@ -45,20 +45,27 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
 
 
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/89802/etv-plus-320x240.jpg", ETV Plus
-https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/27931/etv-cinema-320x240.jpg", ETV Cinema
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV Plus
+https://d2qbg25361k63d.cloudfront.net/7d95c8f44ab14e1196e5c2df9189b33a/etvL76H6.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV Cinema
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47283/etv-life-320x240.jpg", ETV Life
-https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/28270/etv-telugu-320x240.jpg", ETV Telugu
-https://d1rznlx03muoan.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/37856/etv-abhiruchi-320x240.jpg", ETV Abhiruchi
-https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/18492/etv-telangana-320x240.jpg", ETV Telangana
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV Life
+https://d15mjojxgag4el.cloudfront.net/b149e4ea70324b9d9c1fbc11e09e6459/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV Telugu
+https://dct5k6kkx3ead.cloudfront.net/168cd1fc909247829442a468a6fe076b/etvULY69.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV Telangana
 https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
-#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="https://etv-win-image.akamaized.net/etvwin/live/channel/47688/etv-andhra-pradesh-320x240.jpg", ETV Andhra Pradesh
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV Andhra Pradesh
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV BEATS
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV MUSIC
+https://diy3vq1irs76a.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV JOSH
+https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+#EXTINF:-1 group-title="Telugu Satellite" tvg-logo="", ETV COMEDY
+https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="Telugu Local",Bheem TV
