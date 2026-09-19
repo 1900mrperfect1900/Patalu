@@ -91,6 +91,7 @@ MEDIA TV, https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
 CITY TV, https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
 JANATHA TV, https://live1.ottlive.co.in/janataanews/index.m3u8
 Shashwatha TV, https://shashwatha.com/hls/shashwatha/1streport.m3u8
+Sambrama TV, https://shashwatha.com/hls/shashwatha/sambrama.m3u8
 
 
 
