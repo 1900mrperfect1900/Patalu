@@ -147,10 +147,9 @@ MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telang
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
 SATILLITE,#genre#
-ETV HD,https://dlinu2slia6td.cloudfront.net/acfa0cf8a3b64f158b47ebdbbc26b3f0/index.m3u8
-ETV HD,https://p4kp.rjmbts.workers.dev/4588.m3u8
-ETV CINEMA HD,https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
-ETV PLUS,https://d2pk5pedkyu2d0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
+ETV HD, https://dct5k6kkx3ead.cloudfront.net/168cd1fc909247829442a468a6fe076b/etvULY69.m3u8
+ETV CINEMA HD, https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+ETV PLUS HD, https://d2qbg25361k63d.cloudfront.net/7d95c8f44ab14e1196e5c2df9189b33a/etvL76H6.m3u8
 ETV BEATS,https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 ETV COMEDY,https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 ETV JOSH,https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
@@ -158,15 +157,6 @@ ETV LIFE,https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927
 ETV MUSIC,https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
 MAA TV,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 MAA MOVIES,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-
-GEMINI HD,https://p4kp.rjmbts.workers.dev/4595.m3u8
-GEMINI COMEDY https://p4kp.rjmbts.workers.dev/4590.m3u8
-STAR MAA,https://p4kp.rjmbts.workers.dev/4593.m3u8
-ZEE TELUGU,https://p4kp.rjmbts.workers.dev/4600.m3u8
-GEMINI MOVIES,https://p4kp.rjmbts.workers.dev/4591.m3u8
-MAA MOVIES HD,https://p4kp.rjmbts.workers.dev/4589.m3u8
-ZEE CINIMALU,https://p4kp.rjmbts.workers.dev/4598.m3u8
-ZEE TELUGU HD, https://p4kp.rjmbts.workers.dev/4594.m3u8
 
 NEWS,#genre#
 TV9 TELUGU,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
