@@ -16,3 +16,23 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 tvg-id="",Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
+#EXTINF:-1 tvg-id="",Miami live TV
+https://stream.miamitv.com/LIVE1/_definst_/smil:88964/chunklist_w245502587_b1896000.m3u8
+#EXTINF:-1 tvg-id="",Miami Fashion TV
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/5d047214-7426-4e7a-af57-2e48975b690c/0.m3u8
+#EXTINF:-1 tvg-id="",Miami  TV
+https://9cb0b5022c1c499ebe9e915fb85e9193.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-MiamiTV/playlist.m3u8
+#EXTINF:-1 tvg-id="",Miami  Music TV
+https://c234d2ca4266488cabe6eef411767d3b.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-Music/330c1131-c1f5-48a9-8fcc-a1d1c35caeee/0.m3u8
+#EXTINF:-1 tvg-id="",Miami  DJ TV
+https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/d83970c4-aa83-4e81-8315-92cd6f0c67b8/0.m3u8
+#EXTINF:-1 tvg-id="",Miami  MODELS TV
+https://158c4a71a80948ceb6c3c0696f90f164.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-models/44a05506-1270-4c2d-bf13-c27924130ab7/0.m3u8
+#EXTINF:-1 tvg-id="",Miami spain TV
+https://2ca5273a7e3b4443a73e5c5e6ed5a64f.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/spain/cf5afbdd-5c63-46c3-9857-f213365ecd33/0.m3u8
+#EXTINF:-1 tvg-id="",Miami Latino TV
+https://6478139b04f94cf6a3e52c06b84c8d48.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-latino/playlist.m3u8
+#EXTINF:-1 tvg-id="",jenny live TV
+https://bdc8100df748400cabc7e133824c8ceb.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-jennylive/a4c9a104-3512-48df-90f9-e1acef69475c/0.m3u8
+#EXTINF:-1 tvg-id="",Positive Jam TV
+https://2f904baace5f4ed5ae0ccda2b663bde8.mediatailor.us-east-2.api.aws/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/positivejamz/a989f1e8-039e-4ebe-a696-bf5aeb2ac5a4/0.m3u8
