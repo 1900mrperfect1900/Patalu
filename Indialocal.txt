@@ -122,13 +122,20 @@ WAYANAD PLUS, https://online.wayanadvision.in/hls/streaming1.m3u8
 
 
 TAMIL,#genre#
+Dhool TV,https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/chunks.m3u8
 PRIME MUSIC TV,https://live.primestream.in/prime/music/index.m3u8
 KC MUSIC TV,https://rtmp.bmlive.net/bms/kcmusic/stream.m3u8
 SR MUSIC TV,https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8
 RETRO MUSIC TV,https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 JCV MUSIC TV,https://play.applelive.in/jcvtv/jcvmusix.m3u8
+Blue Moon TV,https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
 SANA PLUS,https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 SANA,https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+Abnaz TV, https://live.toponlinetv.com/abnaztv/index.m3u8
+Diamond Music, https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
+Diamond Talkies, https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
+Kings tv, https://phoenixcreations.keralive.workers.dev/kingstv/kingstv/kings/index.m3u8
+
 
 BANGALA,#genre#
 SGC MUSIC,https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8
