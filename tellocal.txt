@@ -6,8 +6,10 @@ GEETV Music,https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 BCT Music,https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 Shreya Music, https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
 SSLC Music,https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+SSLC Music, http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
 SAMA MUSIC,http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 VV MUSIC,https://allchannels.in/live/vvmusic_100/index.m3u8
+LOCAL TV, http://cache.internode.co.in:6081/LocalTVNews/index.m3u8
 TELUGU CINEMA,https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
 2 TELUGU,https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8
 TGN TV,https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
