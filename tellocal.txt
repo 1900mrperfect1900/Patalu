@@ -41,7 +41,6 @@ RK TV,https://vvsolutions.in/rktv_347/rktv_347.m3u8
 7GTV,https://rtmp.streamwell.in/hls/7gtv.m3u8
 KTV HOLLYWOOD, html#https://mumbai-edge.smartplaytv.in/KTVHOLLYWOOD/index.m3u8
 KTV BOLLYWOOD, https://mumbai-edge.smartplaytv.in/KTVBOLLYWOOD/index.m3u8
-
 RV FLOCK TV,https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 SLN NEWS,https://vvsolutions-server11.in/slnnews_2/video.m3u8
 MAA TELANGANA,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/chunklist_w1691683123.m3u8
