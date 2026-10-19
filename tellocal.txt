@@ -1,6 +1,7 @@
 TELUGU,#genre#
 SANATHAN TV,https://mumbai-edge.smartplaytv.in/SanathanTV/index.m3u8
 RK BHAKTHI,https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
+KTV BHAKTHI, https://mumbai-edge.smartplaytv.in/KTVBHAKTHI/index.m3u8
 DS 9 Music,https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 GEETV Music,https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 BCT Music,https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
