@@ -20,7 +20,6 @@ TELUGU CINEMA,https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
 2 TELUGU,https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8
 TGN TV,https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
 VV MOVIES,https://allchannels.in/live/vvmovies_100/index.m3u8
-NEW TV TELUGU,http://newtvtelugu.phoenixcreations.online/newtvtelugu/newtvtelugu/tracks-v1a1/index.m3u8
 Vihari TV,http://viharitv.phoenixcreations.online:1935/viharitv/viharitv/index.m3u8
 Satya TV,https://vstechs.in/PTP/satya/index.m3u8
 Mana Pitapuram,https://vstechs.in/PTP/manaptp/index.m3u8
