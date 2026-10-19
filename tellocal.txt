@@ -7,6 +7,7 @@ BCT Music,https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 KTV MUSIC, https://mumbai-edge.smartplaytv.in/KTVMUSIC/index.m3u8
 KTV COMEDY, https://mumbai-edge.smartplaytv.in/KTVCOMEDY/index.m3u8
 KTV FOLK, https://mumbai-edge.smartplaytv.in/KTVFOLK/index.m3u8
+KTV ENTERTAINMENT, https://mumbai-edge.smartplaytv.in/KTVENT/index.m3u8
 Shreya Music, https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
 SSLC Music,https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 SSLC Music, http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
