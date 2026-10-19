@@ -171,6 +171,70 @@ NEWS,#genre#
 TV9 TELUGU,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 ZEE TELUGU, https://d116gfrn8orazi.cloudfront.net/index_3.m3u8
 
+KANADA,#genre#
+SINDHURA NEW, https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
+SINDHURA KANADA, https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
+SINDHURA KANADA TV,https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
+NANDHI KANADA TV,https://vvsolutions-server11.in/nanditv_10/video.m3u8
+JK KANADA TV,http://account18.livebox.co.in/jktvkannadahls/live.m3u8
+REPUBLIC KANADA TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+JK TV,http://account18.livebox.co.in/jktvkannadahls/live.m3u8
+ENEWS,http://account10.livebox.co.in/enewstvnoonechannelomsairamhls/live.m3u8
+CN MUSIC,https://rcntvlive.com/Rcnmusichls/live.m3u8
+RCN TV,https://rcntvlive.com/Rcnchannelhls/live.m3u8
+REPUBLIC TV,https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+CTV,https://vvsolutions.in/ctvnews/ctvnews.m3u8
+Local TV Karatagi, https://vvsolutions-server12.in/localtvkaratagi_15/video.m3u8
+VS TV, https://vvsolutions-server11.in/dcn24_44/video.m3u8
+MM TV, https://account19.livebox.co.in/mmtvhls/live.m3u8
+ANC GOLD, https://vvsolutions-server12.in/acngold_16/video.m3u8
+UTV, https://mars.streambridge.cloud/uchannel/live/index.m3u8
+MEDIA TV, https://cloud.dndcommunication.in/mediatv/mediatv/index.m3u8
+CITY TV, https://stream.ashokadigital.net/cititv/cititvhd/index.m3u8
+JANATHA TV, https://live1.ottlive.co.in/janataanews/index.m3u8
+Shashwatha TV, https://shashwatha.com/hls/shashwatha/1streport.m3u8
+Sambrama TV, https://shashwatha.com/hls/shashwatha/sambrama.m3u8
+SHINE KANADA, https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
+
+
+MALAYALAM,#genre#
+GTPL KERLA,https://sx.nellaiiptv.com/app-restream/4vw22q-keralagtpltv/index.m3u8
+ANADN HD,https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?token=D693400
+KCL,https://kcltv.livebox.co.in/kclhls/live.m3u8
+NEW STAR,https://live.skystream.in/live/newsstar2924/index.m3u8?hls_ctx=ix6cvu58
+SOUTH VISION,https://live.skystream.in/live/southvsnklm/index.m3u8
+UTSAV TV,https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/chunks.m3u8
+CITI VISION,https://live.skystream.in/live/citykannurcity/tracks-v1a1/mono.m3u8
+GTV,https://play.applelive.in/gtv/gtv.m3u8
+GTV MAX,https://play.applelive.in/gtvmax/gtvmax.m3u8
+VCV,https://5a1178b42cc03.streamlock.net/8210/8210/index.m3u8
+C MALAYALAM,https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+UTV,https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+KV TV,https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+N VISION,https://ipcloud.live/nvision/nvisionhd/index.m3u8
+METRO LIVE,https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+KOICKAL TV,https://play.applelive.in/koickalnews/koickalnews.m3u8
+POWRAN MEDIA,https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
+MEDIA VISION,https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
+Cranganore TV, https://live.applelive.in/cranganorechannel/cranganorechannel/tracks-v1a1/mono.m3u8
+Wayanad Movies, https://online.wayanadvision.in/hls/wvmovies.m3u8
+WAYANAD PLUS, https://online.wayanadvision.in/hls/streaming1.m3u8
+
+
+TAMIL,#genre#
+Dhool TV,https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/chunks.m3u8
+PRIME MUSIC TV,https://live.primestream.in/prime/music/index.m3u8
+KC MUSIC TV,https://rtmp.bmlive.net/bms/kcmusic/stream.m3u8
+SR MUSIC TV,https://srnet-bmlive-net.proxy.nellaiiptv.com/srmusic/myStream/playlist.m3u8
+RETRO MUSIC TV,https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
+JCV MUSIC TV,https://play.applelive.in/jcvtv/jcvmusix.m3u8
+Blue Moon TV,https://rtmp.bmlive.net/bms/bmtv/stream.m3u8
+SANA PLUS,https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+SANA,https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+Abnaz TV, https://live.toponlinetv.com/abnaztv/index.m3u8
+Diamond Music, https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
+Diamond Talkies, https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
+Kings tv, https://phoenixcreations.keralive.workers.dev/kingstv/kingstv/kings/index.m3u8
 
 
 
