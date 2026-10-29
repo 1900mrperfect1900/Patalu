@@ -173,6 +173,7 @@ ZEE TELUGU, https://d116gfrn8orazi.cloudfront.net/index_3.m3u8
 KANADA,#genre#
 SNE MUSIC, https://mumbai-edge.smartplaytv.in/sne/index.m3u8
 MUSIC BEATS, https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
+SINDHURA MUSIC, https://mumbai-edge.smartplaytv.in/SindhuraTV/index.m3u8
 SINDHURA NEW, https://vvsolutions-server12.in/sindhuratv_2/video.m3u8
 SINDHURA KANADA, https://vvsolutions-server12.in/sindhuranews_1/video.m3u8
 SINDHURA KANADA TV,https://mumbai-edge.smartplaytv.in/SindhuraNews/index.m3u8
