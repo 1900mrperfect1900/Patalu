@@ -156,7 +156,7 @@ Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/
 
 SATILLITE,#genre#
 ETV HD, https://dct5k6kkx3ead.cloudfront.net/168cd1fc909247829442a468a6fe076b/etvULY69.m3u8
-ETV CINEMA HD, https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+ETV CINEMA HD, https://d9cjzj20aa5ed.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-5_cloud_in/index.m3u8
 ETV PLUS HD, https://d2qbg25361k63d.cloudfront.net/7d95c8f44ab14e1196e5c2df9189b33a/etvL76H6.m3u8
 ETV BEATS,https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
 ETV COMEDY,https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
