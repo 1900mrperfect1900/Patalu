@@ -223,6 +223,7 @@ Cranganore TV, https://live.applelive.in/cranganorechannel/cranganorechannel/tra
 Wayanad Movies, https://online.wayanadvision.in/hls/wvmovies.m3u8
 WAYANAD PLUS, https://online.wayanadvision.in/hls/streaming1.m3u8
 VTV, https://live-stream.in/vtv/vtv/tracks-v1a1/mono.m3u8
+CV VISION, https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
 
 TAMIL,#genre#
@@ -239,6 +240,7 @@ Abnaz TV, https://live.toponlinetv.com/abnaztv/index.m3u8
 Diamond Music, https://real-vk.proxy.nellaiiptv.com/DIAMONDMUSIC/index.m3u8
 Diamond Talkies, https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
 Kings tv, https://phoenixcreations.keralive.workers.dev/kingstv/kingstv/kings/index.m3u8
+Vedha, https://live.skystream.in/live/vedha6528/index.m3u8
 
 
 
