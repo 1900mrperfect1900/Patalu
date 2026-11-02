@@ -19,6 +19,7 @@ ALZEERA,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 EURO NEWS,https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
 EURO NEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+Business Today, https://feeds.intoday.in/bttv/itgd.m3u8
 
 NHK JAPAN, https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 PRESS TV, https://live.presstv.ir/hls/presstv.m3u8
