@@ -1,6 +1,7 @@
 TELUGU,#genre#
 RK BHAKTHI,https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
 KTV BHAKTHI, https://mumbai-edge.smartplaytv.in/KTVBHAKTHI/index.m3u8
+VIZAG LOCAL, https://edmediahub.in/vizaglocaltv/index.m3u8
 KCN MUSIC, https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
 DS 9 Music,https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 GEETV Music,https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
@@ -49,6 +50,7 @@ RK GOLD,https://mumbai-edge.smartplaytv.in/RkGold/index.m3u8
 RK TV,https://vvsolutions.in/rktv_347/rktv_347.m3u8
 7GTV,https://rtmp.streamwell.in/hls/7gtv.m3u8
 KTV HOLLYWOOD, html#https://mumbai-edge.smartplaytv.in/KTVHOLLYWOOD/index.m3u8
+Anjali TV, https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
 KTV BOLLYWOOD, https://mumbai-edge.smartplaytv.in/KTVBOLLYWOOD/index.m3u8
 RV FLOCK TV,https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
 SLN NEWS,https://vvsolutions-server11.in/slnnews_2/video.m3u8
@@ -127,7 +129,6 @@ GS GRAMEENA,https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
 SRK CITY,https://server.streamwell.in/hls/srkcity.m3u8
 MULTIPLEX 70MM,http://cache.internode.co.in:6081/SSLCMultiplex/index.m3u8
 4 SIDES TV,https://mumbai-edge.smartplaytv.in/4sidestv/index.m3u8
-SITI 24X7,https://www.schannels.in/SITI24X7_1/index.m3u8
 SSTV,http://streamcp.logosys.cloud:1935/snewsnpt/snewsnpt/playlist.m3u8
 CHANAKYA NEWS,https://mumbai-edge.smartplaytv.in/ChanakyaNews/index.m3u8
 MEDIA TODAY,https://mumbai-edge.smartplaytv.in/MediaToday/index.m3u8
@@ -157,11 +158,14 @@ K6,http://cloud.streamplay.in:1935/roshni/roshni/playlist.m3u8
 CITY NEWS,http://citynews.mythrimediaindia.com:1935/citynews/citynews/index.m3u8
 RAPID MEDIA,http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
-CCC,https://colorsportscreen.com/freetv/stream.m3u8?id=3f8c472e3b36
+VEE9 TV, https://mumbai-edge.smartplaytv.in/Vee9/index.m3u8
 TR9,http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
 19TV NEWS, https://mumbai-edge.smartplaytv.in/19TVNews/index.m3u8
 AMMA TV, http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
+TG 5, https://mumbai-edge.smartplaytv.in/TG5/index.m3u8
+SITI 24, https://www.schannels.in/SITI24X7_1/index.m3u8
 MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
+SV6, https://mumbai-edge.smartplaytv.in/SV6/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
 SATILLITE,#genre#
