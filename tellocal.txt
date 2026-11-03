@@ -180,10 +180,6 @@ ETV MUSIC,https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b
 MAA TV,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 MAA MOVIES,https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-NEWS,#genre#
-TV9 TELUGU,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-ZEE TELUGU, https://d116gfrn8orazi.cloudfront.net/index_3.m3u8
-
 KANADA,#genre#
 SNE MUSIC, https://mumbai-edge.smartplaytv.in/sne/index.m3u8
 MUSIC BEATS, https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
@@ -212,7 +208,6 @@ Shashwatha TV, https://shashwatha.com/hls/shashwatha/1streport.m3u8
 FREEDOM TV, https://freedomtv.in/live/freedomtv/index.m3u8
 Sambrama TV, https://shashwatha.com/hls/shashwatha/sambrama.m3u8
 SHINE KANADA, https://cloud.dndcommunication.in/shinekannada/shinekannada/playlist.m3u8
-
 
 MALAYALAM,#genre#
 MN MEDIA, https://live.skystream.in/live/newmedia2924/index.m3u8
@@ -256,6 +251,61 @@ Diamond Talkies, https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
 Kings tv, https://phoenixcreations.keralive.workers.dev/kingstv/kingstv/kings/index.m3u8
 Vedha, https://live.skystream.in/live/vedha6528/index.m3u8
 
+
+NEWS,#genre#
+
+TV9 TELUGU,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+ZEE TELUGU, https://d116gfrn8orazi.cloudfront.net/index_3.m3u8
+
+CNBC18,https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+CNBC 18 PRIME,https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+NEWSX,https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
+NDTV WORLD,https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
+NDTV PROFIT,https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+NEWS 9,https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+TIMES NOW,https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/live_720p/chunks.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+MIRROR NOW,https://d179muqh6u5263.cloudfront.net/master.m3u8
+RT INDIA,https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+ETNOW,https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+TRT WORLD,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+FRANCE 24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+AFRICA 24,https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+ALZEERA,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+EURO NEWS,https://cdn-euronews.akamaized.net/live/eds/euronews-en/25080/euronews-en.m3u8
+EURO NEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+Business Today, https://feeds.intoday.in/bttv/itgd.m3u8
+NHK JAPAN, https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+PRESS TV, https://live.presstv.ir/hls/presstv.m3u8
+TOI, https://live.sli.ke/live/npnhm84gz9/fhd/stream.m3u8
+CNN HEALLINES, https://mediapackage-ptcn-source.fullscreen.nz/index_4.m3u8
+FIRST POST, https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/Firstpost_NW18_MOB-audio_98836_eng=98800-video=2293600.m3u8
+Republic TV, https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index_6.m3u8
+BUSINESS TODAY, https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv3/chunklist.m3u8
+BRICS, https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+BRICS, https://chibrics.mediacdn.ru/cdn/brics/english/index.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+GB,https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+NHK,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+GLOBAL NEWS,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+Yahoo,https://yahoo-plex.amagi.tv/playlist.m3u8
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+BLOOMBERG,https://liveproduseast.global.ssl.fastly.net/us/index.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+CNA ORIGINALS, https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+DOCBAY,https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+HISTORY 18,https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+INWILD,https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+WILD EARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+CHINA TRAVEL,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+DISCOVERY CHINA,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+BBC EARTH,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
 
 
