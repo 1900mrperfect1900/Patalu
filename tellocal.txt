@@ -1,6 +1,7 @@
 TELUGU,#genre#
 RK BHAKTHI,https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
 KTV BHAKTHI, https://mumbai-edge.smartplaytv.in/KTVBHAKTHI/index.m3u8
+KCN MUSIC, https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
 DS 9 Music,https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 GEETV Music,https://mumbai-edge.smartplaytv.in/GeeMusic/index.m3u8
 BCT Music,https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
@@ -13,6 +14,13 @@ SSLC Music,https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 SSLC Music, http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
 SAMA MUSIC,http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 VV MUSIC,https://allchannels.in/live/vvmusic_100/index.m3u8
+KCN TV, https://cloud.kcncable.in/hls/kcn/index.m3u8
+KCN MUSIC, https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
+KCN MOVIES, https://cloud.kcncable.in/hls/kcnmovies/index.m3u8
+KCN CLASSIC, https://cloud.kcncable.in/hls/kcnclassic/index.m3u8
+KCN FUN, https://cloud.kcncable.in/hls/kcnfun/index.m3u8
+KCN BANJARA, https://cloud.kcncable.in/hls/kcnbanjara/index.m3u8
+KCN PRATHYAKSHA, https://cloud.kcncable.in/hls/kcnprathyaksha/index.m3u8
 LOCAL TV, http://cache.internode.co.in:6081/LocalTVNews/index.m3u8
 KTV MOVIES, https://mumbai-edge.smartplaytv.in/KTVNEWMOVIES/index.m3u8
 TELUGU CINEMA,https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
@@ -25,6 +33,7 @@ Mana Pitapuram,https://vstechs.in/PTP/manaptp/index.m3u8
 NSR, https://mumbai-edge.smartplaytv.in/NSRNEWS/index.m3u8
 JK CITY,https://amigofx.com:1936/jkccity/jkccity/index.m3u8
 CITI CHANNEL,https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
+3S NEWS, https://mumbai-edge.smartplaytv.in/3SNEWS/index.m3u8
 JOGULAMBA TV,https://mumbai-edge.smartplaytv.in/JogulambaTV/index.m3u8
 RV DIGITAL TV,https://rtmp.streamwell.in/rvdigitaltv.m3u8
 SS NEWS,https://5dd3981940faa.streamlock.net/snewsnpt/snewsnpt/playlist.m3u8
@@ -150,6 +159,7 @@ RAPID MEDIA,http://cache.internode.co.in:6081/RapidMedia/index.m3u8
 J7,https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
 CCC,https://colorsportscreen.com/freetv/stream.m3u8?id=3f8c472e3b36
 TR9,http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+19TV NEWS, https://mumbai-edge.smartplaytv.in/19TVNews/index.m3u8
 AMMA TV, http://cloud.streamplay.in:1935/ammanews/ammanews/playlist.m3u8
 MA Telanagana,http://telanganatv.phoenixcreations.online:1935/telanganatv/telanganatv/index.m3u8
 Super Fine Movies Telugu,https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
