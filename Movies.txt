@@ -1,1 +1,17 @@
-
+MOVIES,#genre#
+Movie Hub Action, https://aka-live1050.delivery.roku.com/be8e0aad-9c0d-4b4d-ac10-d0c72bb6c7f3/t2-origin/out/v1/live.m3u8
+SONY ACTION HITS, https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+EMOTIONAL, https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-emotional-xiaomi/playlist.m3u8
+MOVIE DOME, https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
+WB, https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+FILM BOX LOVE & CRIME, https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+FILM BOX HITS, https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+FILM BOX EM0TIONAL, https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+MOVIE BOX, https://live20.bozztv.com/giatvplayout7/giatv-210731/playlist.m3u8
+UNIVERSAL MONSTER, https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+MIX, https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+WE DO TV, https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
+WE DO TV, https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
+WE DO TV, https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8
+HONG KONG FIGHT CLUB, https://linear-1119.frequency.stream/dist/vesper/1119/hls/master/playlist.m3u8?
+AT THE MOVIES, https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist.m3u8
