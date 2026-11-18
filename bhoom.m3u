@@ -290,6 +290,48 @@ https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
 https://vvsolutions.in/ctvnews/ctvnews.m3u8
 
 
+
+#EXTINF:-1 tvg-id="849" tvg-chno="849" tvg-name="Calvari Prardhana" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788691744_c1ef8ebc-30a4-47e3-b040-125e7d1403b4-Photoroom.png" group-title="Andhra Pradesh and Telangana",849 Calvari Prardhana
+https://mumbai-edge.smartplaytv.in/CalvariPrardhana/index.m3u8
+#EXTINF:-1 tvg-id="850" tvg-chno="850" tvg-name="7gtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786288098_8f1663ed-b220-4f5e-8878-b67ca1312b94-Photoroom.png" group-title="Andhra Pradesh and Telangana",850 7gtv
+https://rtmp.streamwell.in/hls/7gtv.m3u8
+#EXTINF:-1 tvg-id="852" tvg-chno="852" tvg-name="pps tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788337678_03581834-faa6-46e3-83e9-4f7228a3cbc0-Photoroom.png" group-title="Andhra Pradesh and Telangana",852 pps tv
+https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
+#EXTINF:-1 tvg-id="853" tvg-chno="853" tvg-name="Reshya Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750518076_R.png" group-title="Andhra Pradesh and Telangana",853 Reshya Tv
+https://reshyatv.in:8052/telugu/reshyatv/index.m3u8
+#EXTINF:-1 tvg-id="854" tvg-chno="854" tvg-name="Rv tv folk songs" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1788552328_2d73aebe-c73c-4e89-a8d7-628f19215a4c-Photoroom.png" group-title="Andhra Pradesh and Telangana",854 Rv tv folk songs
+https://vvsolutions-server14.in/siticablemovies_31/video.m3u8
+#EXTINF:-1 tvg-id="855" tvg-chno="855" tvg-name="BMC TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1750579765_IMG_20250622_133711.jpg" group-title="Andhra Pradesh and Telangana",855 BMC TV
+https://mumbai-edge.smartplaytv.in/BMC/index.m3u8
+#EXTINF:-1 tvg-id="856" tvg-chno="856" tvg-name="VS NEWS" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789132662_VS%20NEWS.png" group-title="Andhra Pradesh and Telangana",856 VS NEWS
+https://vvsolutions-server11.in/dcn24_44/video.m3u8
+#EXTINF:-1 tvg-id="857" tvg-chno="857" tvg-name="TR9 TV – VOICE OF PEOPLE" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785620_tv9.png" group-title="Andhra Pradesh and Telangana",857 TR9 TV – VOICE OF PEOPLE
+http://103.161.31.77:1935/tr9tv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="858" tvg-chno="858" tvg-name="PUBLIC TV న్యూస్" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789785930_pulic%20tv.png" group-title="Andhra Pradesh and Telangana",858 PUBLIC TV న్యూస్
+https://publictvtelugu.co.in/publictv_1/video.m3u8
+#EXTINF:-1 tvg-id="859" tvg-chno="859" tvg-name="PUBLIC TV Folk music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789786293_public%20fock.png" group-title="Andhra Pradesh and Telangana",859 PUBLIC TV Folk music
+https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
+#EXTINF:-1 tvg-id="860" tvg-chno="860" tvg-name="siti cable " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898731_sirte%20cable%20png.png" group-title="Andhra Pradesh and Telangana",860 siti cable 
+https://vvsolutions-server14.in/siticablefolk_32/video.m3u8
+#EXTINF:-1 tvg-id="861" tvg-chno="861" tvg-name="Media 10" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789898868_media%2010.png" group-title="Andhra Pradesh and Telangana",861 Media 10
+https://vvsolutions-server14.in/media10news_22/video.m3u8
+#EXTINF:-1 tvg-id="862" tvg-chno="862" tvg-name="nsr news " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789899252_nsr.png" group-title="Andhra Pradesh and Telangana",862 nsr news 
+https://vvsolutions.in/nsrnews/nsrnews.m3u8
+#EXTINF:-1 tvg-id="863" tvg-chno="863" tvg-name="ns tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790272782_Untitled-1%20copy.pngdf.png" group-title="Andhra Pradesh and Telangana",863 ns tv
+https://nstv.co.in/nstv/video.m3u8
+#EXTINF:-1 tvg-id="864" tvg-chno="864" tvg-name="BSK TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791257437_bsk%20news%20copy.png" group-title="Andhra Pradesh and Telangana",864 BSK TV
+https://vvsolutions-server15.in/bsknews_18/video.m3u8
+#EXTINF:-1 tvg-id="865" tvg-chno="865" tvg-name="AN TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791356424_WhatsApp%20Image%202026-10-06%20at%204.00.51%20PM.jpeg" group-title="Andhra Pradesh and Telangana",865 AN TV
+https://mars.streambridge.link:8052/telugu/antv/index.m3u8
+#EXTINF:-1 tvg-id="866" tvg-chno="866" tvg-name="GEE TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1791365488_gtv.png" group-title="Andhra Pradesh and Telangana",866 GEE TV
+https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
+#EXTINF:-1 tvg-id="867" tvg-chno="867" tvg-name="happy tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793026369_507e0081-b180-457a-a6f8-fea91cb74d51-Photoroom.png" group-title="Andhra Pradesh and Telangana",867 happy tv
+http://happy.dets.fun:8080/hls/.m3u8
+#EXTINF:-1 tvg-id="868" tvg-chno="868" tvg-name="a1 tv media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1793026513_a408ee30-c8a3-48a4-a46d-f5c0babb4b49-Photoroom.png" group-title="Andhra Pradesh and Telangana",868 a1 tv media
+https://vvsolutions-server14.in/a1tvmedia_26/video.m3u8
+#EXTINF:-1 tvg-id="869" tvg-chno="869" tvg-name="mee tv news" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1794107090_WhatsApp%20Image%202026-11-06%20at%206.53.36%20PM.jpeg" group-title="Andhra Pradesh and Telangana",869 mee tv news
+https://sharsolution.in/hls/meetv/meetv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TAMIL",PRIME MUSIC TV
 https://live.primestream.in/prime/music/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TAMIL",KC MUSIC TV
