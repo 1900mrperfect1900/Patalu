@@ -15,6 +15,7 @@ SSLC Music,https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 SSLC Music, http://cache.internode.co.in:6081/SSLCMusic/index.m3u8
 SAMA MUSIC,http://cloud.streamplay.in:1935/samatv/samatv/playlist.m3u8
 VV MUSIC,https://allchannels.in/live/vvmusic_100/index.m3u8
+PSS TELUGU, https://app.ashokadigital.net/app/2c33bc6b/index.m3u8
 KCN TV, https://cloud.kcncable.in/hls/kcn/index.m3u8
 KCN MUSIC, https://cloud.kcncable.in/hls/kcnmusic/index.m3u8
 KCN MOVIES, https://cloud.kcncable.in/hls/kcnmovies/index.m3u8
